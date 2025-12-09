@@ -1,4 +1,4 @@
-<img width="100%" src="https://capsule-render.vercel.app/api?type=venom&height=300&color=gradient&customColorList=12,9,5&text=Farhan%20Rhine&fontSize=90&fontColor=fff&animation=twinkling&stroke=6C63FF&strokeWidth=2&desc=AI/ML%20Engineer%20|%20Building%20Agentic%20AI%20Systems&descSize=20&descAlignY=75"/>
+<img width="100%" src="https://capsule-render.vercel.app/api?type=venom&height=300&color=gradient&customColorList=12,9,5&text=Farhan&fontSize=90&fontColor=fff&animation=twinkling&stroke=6C63FF&strokeWidth=2&desc=AI/ML%20Engineer%20|%20Building%20Agentic%20AI%20Systems&descSize=20&descAlignY=75"/>
 
 <p align="center">
   <a href="https://github.com/farhanrhine">
@@ -143,10 +143,10 @@ const farhan: AIEngineer = {
   <a href="https://github.com/farhanrhine">
     <img src="https://img.shields.io/badge/GitHub-100000?style=for-the-badge&logo=github&logoColor=white" alt="GitHub"/>
   </a>
-  <a href="https://linkedin.com/in/YOUR_LINKEDIN">
+  <a href="https://www.linkedin.com/in/farhanrhine">
     <img src="https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white" alt="LinkedIn"/>
   </a>
-  <a href="mailto:YOUR_EMAIL">
+  <a href="mailto:mohammadfarhanalam09@gmail.com">
     <img src="https://img.shields.io/badge/Email-D14836?style=for-the-badge&logo=gmail&logoColor=white" alt="Email"/>
   </a>
 </p>
@@ -154,7 +154,7 @@ const farhan: AIEngineer = {
 ---
 
 <p align="center">
-  <img src="https://quotes-github-readme.vercel.app/api?type=horizontal&theme=tokyonight" alt="Random Dev Quote"/>
+  <b>🧠 "The goal of AI is not to replace human intelligence, but to amplify it — building systems that think with us, not for us."</b>
 </p>
 
 <img width="100%" src="https://capsule-render.vercel.app/api?type=waving&color=gradient&customColorList=12,9,5&height=120&section=footer&animation=twinkling"/>
