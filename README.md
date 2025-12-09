@@ -1,15 +1,23 @@
-<img width="100%" src="https://capsule-render.vercel.app/api?type=venom&height=300&color=gradient&customColorList=12,9,5&text=Farhan&fontSize=90&fontColor=fff&animation=twinkling&stroke=6C63FF&strokeWidth=2&desc=AI/ML%20Engineer%20|%20Building%20Agentic%20AI%20Systems&descSize=20&descAlignY=75"/>
+<img width="100%" src="https://capsule-render.vercel.app/api?type=waving&height=200&color=gradient&customColorList=2,2,2,2,2&section=header"/>
 
-<p align="center">
+<div align="center">
+  
+# 👋 Hey, I'm [Farhan](https://github.com/farhanrhine)
+
+<img src="https://readme-typing-svg.demolab.com?font=Fira+Code&weight=600&size=28&duration=3000&pause=500&color=6C63FF&center=true&vCenter=true&multiline=true&repeat=true&width=700&height=120&lines=%E2%9A%A1+AI%2FML+Engineer+%7C+Agentic+AI+Builder;%F0%9F%94%AE+Transforming+Ideas+into+Intelligent+Systems;%F0%9F%9A%80+LangChain+%7C+RAG+%7C+LLMs+%7C+MCP+%7C+FastAPI" alt="Typing SVG" />
+
+<img src="https://user-images.githubusercontent.com/74038190/212284100-561aa473-3905-4a80-b561-0d28506553ee.gif" width="700">
+
+<p>
   <a href="https://github.com/farhanrhine">
     <img src="https://img.shields.io/github/followers/farhanrhine?label=Followers&style=social" alt="GitHub Followers">
   </a>
   <img src="https://komarev.com/ghpvc/?username=farhanrhine&label=Profile%20Views&color=6C63FF&style=flat" alt="Profile Views" />
 </p>
 
-<p align="center">
-  <img src="https://readme-typing-svg.demolab.com?font=Orbitron&weight=600&size=22&duration=3000&pause=1000&color=6C63FF&center=true&vCenter=true&multiline=true&repeat=true&width=600&height=100&lines=%F0%9F%A4%96+Crafting+Intelligent+AI+Systems;%F0%9F%94%97+LangChain+%7C+RAG+%7C+LLMs+%7C+MCP;%F0%9F%9A%80+Turning+Ideas+into+AI+Reality" alt="Typing SVG" />
-</p>
+</div>
+
+<img src="https://user-images.githubusercontent.com/74038190/212284115-f47cd8ff-2ffb-4b04-b5bf-4d1c14c0247f.gif" width="100%">
 
 ---
 
@@ -37,7 +45,7 @@
 
 ## 🚀 About Me
 
-<img align="right" alt="Coding" width="400" src="https://raw.githubusercontent.com/abhisheknaiidu/abhisheknaiidu/master/code.gif"/>
+<img align="right" alt="Coding" width="400" src="https://user-images.githubusercontent.com/74038190/229223263-cf2e4b07-2615-4f87-9c38-e37600f8381a.gif"/>
 
 ```typescript
 const farhan: AIEngineer = {
@@ -112,7 +120,7 @@ const farhan: AIEngineer = {
 
 <p align="center">
   <img width="49%" src="https://github-readme-stats.vercel.app/api?username=farhanrhine&show_icons=true&theme=tokyonight&hide_border=true&bg_color=0d1117&title_color=6C63FF&icon_color=6C63FF&text_color=ffffff&count_private=true" alt="GitHub Stats"/>
-  <img width="49%" src="https://github-readme-streak-stats.herokuapp.com?user=farhanrhine&theme=tokyonight&hide_border=true&background=0D1117&ring=6C63FF&fire=6C63FF&currStreakLabel=6C63FF" alt="GitHub Streak"/>
+  <img width="49%" src="https://streak-stats.demolab.com?user=farhanrhine&theme=tokyonight&hide_border=true&background=0D1117&ring=6C63FF&fire=6C63FF&currStreakLabel=6C63FF" alt="GitHub Streak"/>
 </p>
 
 <p align="center">
@@ -157,4 +165,6 @@ const farhan: AIEngineer = {
   <b>🧠 "The goal of AI is not to replace human intelligence, but to amplify it — building systems that think with us, not for us."</b>
 </p>
 
-<img width="100%" src="https://capsule-render.vercel.app/api?type=waving&color=gradient&customColorList=12,9,5&height=120&section=footer&animation=twinkling"/>
+<img src="https://user-images.githubusercontent.com/74038190/212284115-f47cd8ff-2ffb-4b04-b5bf-4d1c14c0247f.gif" width="100%">
+
+<img width="100%" src="https://capsule-render.vercel.app/api?type=waving&color=gradient&customColorList=2,2,2,2,2&height=120&section=footer"/>
