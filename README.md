@@ -1,5 +1,5 @@
 <h1 align="center">
-  <img src="https://readme-typing-svg.herokuapp.com?font=Fira+Code&weight=600&size=28&duration=4000&pause=1000&color=6C63FF&center=true&vCenter=true&random=false&width=600&lines=Hi+%F0%9F%91%8B%2C+I'm+Farhan;AI%2FML+Engineer;Building+Agentic+AI+Systems;Welcome+to+my+GitHub!" alt="Typing SVG" />
+  <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&weight=600&size=28&duration=4000&pause=1000&color=6C63FF&center=true&vCenter=true&random=false&width=600&lines=Hi+%F0%9F%91%8B%2C+I'm+Farhan;AI%2FML+Engineer;Building+Agentic+AI+Systems;Welcome+to+my+GitHub!" alt="Typing SVG" />
 </h1>
 
 <p align="center">
@@ -14,12 +14,22 @@
 ## ⭐ Featured Projects
 
 <p align="center">
-  <a href="https://github.com/farhanrhine/farhanrhine">
-    <img src="https://github-readme-stats.vercel.app/api/pin/?username=farhanrhine&repo=farhanrhine&theme=tokyonight&hide_border=true&bg_color=1a1b27" alt="Profile Repo"/>
+  <a href="https://github.com/farhanrhine/ai-anime-recommender-rag">
+    <img src="https://github-readme-stats.vercel.app/api/pin/?username=farhanrhine&repo=ai-anime-recommender-rag&theme=tokyonight&hide_border=true&bg_color=1a1b27" alt="AI Anime Recommender RAG"/>
+  </a>
+  <a href="https://github.com/farhanrhine/paytm-local-mcp-server">
+    <img src="https://github-readme-stats.vercel.app/api/pin/?username=farhanrhine&repo=paytm-local-mcp-server&theme=tokyonight&hide_border=true&bg_color=1a1b27" alt="Paytm Local MCP Server"/>
   </a>
 </p>
 
-> 💡 *Pin your best repositories on your profile and let me know - I can add them here!*
+<p align="center">
+  <a href="https://github.com/farhanrhine/insurance-premium-prediction-fastapi-docker-aws">
+    <img src="https://github-readme-stats.vercel.app/api/pin/?username=farhanrhine&repo=insurance-premium-prediction-fastapi-docker-aws&theme=tokyonight&hide_border=true&bg_color=1a1b27" alt="Insurance Premium Prediction"/>
+  </a>
+  <a href="https://github.com/farhanrhine/flight-satisfaction-mlops">
+    <img src="https://github-readme-stats.vercel.app/api/pin/?username=farhanrhine&repo=flight-satisfaction-mlops&theme=tokyonight&hide_border=true&bg_color=1a1b27" alt="Flight Satisfaction MLOps"/>
+  </a>
+</p>
 
 ---
 
