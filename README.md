@@ -11,6 +11,18 @@
 
 ---
 
+## ⭐ Featured Projects
+
+<p align="center">
+  <a href="https://github.com/farhanrhine/farhanrhine">
+    <img src="https://github-readme-stats.vercel.app/api/pin/?username=farhanrhine&repo=farhanrhine&theme=tokyonight&hide_border=true&bg_color=1a1b27" alt="Profile Repo"/>
+  </a>
+</p>
+
+> 💡 *Pin your best repositories on your profile and let me know - I can add them here!*
+
+---
+
 ## 🚀 About Me
 
 ```python
@@ -68,13 +80,15 @@ me.say_hi()
 
 ## 📊 GitHub Stats
 
-<p align="center">
-  <img src="https://github-readme-stats.vercel.app/api?username=farhanrhine&show_icons=true&theme=tokyonight&hide_border=true&bg_color=1a1b27" alt="GitHub Stats" height="170"/>
-  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=farhanrhine&layout=compact&theme=tokyonight&hide_border=true&bg_color=1a1b27" alt="Top Languages" height="170"/>
-</p>
+<div align="center">
+  <img src="https://github-readme-stats.vercel.app/api?username=farhanrhine&show_icons=true&theme=tokyonight&hide_border=true&bg_color=1a1b27&count_private=true" alt="GitHub Stats" height="180"/>
+  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=farhanrhine&layout=compact&theme=tokyonight&hide_border=true&bg_color=1a1b27&langs_count=8" alt="Top Languages" height="180"/>
+</div>
+
+<br/>
 
 <p align="center">
-  <img src="https://github-readme-streak-stats.herokuapp.com/?user=farhanrhine&theme=tokyonight&hide_border=true&background=1a1b27" alt="GitHub Streak"/>
+  <img src="https://streak-stats.demolab.com?user=farhanrhine&theme=tokyonight&hide_border=true&background=1a1b27" alt="GitHub Streak"/>
 </p>
 
 ---
@@ -82,15 +96,15 @@ me.say_hi()
 ## 🏆 GitHub Trophies
 
 <p align="center">
-  <img src="https://github-profile-trophy.vercel.app/?username=farhanrhine&theme=tokyonight&no-frame=true&no-bg=true&margin-w=4&row=1" alt="Trophies"/>
+  <img src="https://github-profile-trophy.vercel.app/?username=farhanrhine&theme=tokyonight&no-frame=true&no-bg=true&margin-w=4&row=1&column=7" alt="Trophies"/>
 </p>
 
 ---
 
-## 🐍 Contribution Snake
+## 📈 Contribution Graph
 
 <p align="center">
-  <img src="https://raw.githubusercontent.com/farhanrhine/farhanrhine/output/github-contribution-grid-snake-dark.svg" alt="Snake animation" />
+  <img src="https://github-readme-activity-graph.vercel.app/graph?username=farhanrhine&theme=tokyo-night&hide_border=true&bg_color=1a1b27" alt="Contribution Graph"/>
 </p>
 
 ---
