@@ -129,8 +129,11 @@ const farhan: AIEngineer = {
 </p>
 
 <p align="center">
-  <img width="40%" src="https://github-readme-stats.vercel.app/api/top-langs/?username=farhanrhine&layout=compact&theme=tokyonight&hide_border=true&bg_color=0d1117&title_color=6C63FF&text_color=ffffff&langs_count=8" alt="Top Languages"/>
+  <img src="https://img.shields.io/badge/Top%20Languages-0d1117?style=for-the-badge&logo=github&logoColor=6C63FF&labelColor=000000" />
 </p>
+
+
+
 
 ---
 
