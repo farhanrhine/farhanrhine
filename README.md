@@ -4,7 +4,7 @@
   
 # 👋 Hey, I'm [Farhan](https://github.com/farhanrhine)
 
-<img src="https://readme-typing-svg.demolab.com?font=Fira+Code&weight=600&size=28&duration=3000&pause=500&color=6C63FF&center=true&vCenter=true&multiline=true&repeat=true&width=700&height=120&lines=%E2%9A%A1+AI%2FML+Engineer+%7C+Agentic+AI+Builder;%F0%9F%94%AE+Transforming+Ideas+into+Intelligent+Systems;%F0%9F%9A%80+LangChain+%7C+RAG+%7C+LLMs+%7C+MCP+%7C+FastAPI" alt="Typing SVG" />
+<img src="https://readme-typing-svg.demolab.com?font=Fira+Code&weight=600&size=28&duration=3000&pause=500&color=6C63FF&center=true&vCenter=true&multiline=true&repeat=true&width=700&height=120&lines=AI/ML%20Engineer%20%F0%9F%A4%96,Building%20Intelligent%20Systems%20%F0%9F%9A%80,Open%20Source%20Enthusiast%20%F0%9F%93%9A,Turning%20Ideas%20into%20Reality%20%F0%9F%92%A1">
 
 <img src="https://user-images.githubusercontent.com/74038190/212284100-561aa473-3905-4a80-b561-0d28506553ee.gif" width="700">
 
@@ -25,19 +25,19 @@
 
 <p align="center">
   <a href="https://github.com/farhanrhine/ai-anime-recommender-rag">
-    <img src="https://github-readme-stats.vercel.app/api/pin/?username=farhanrhine&repo=ai-anime-recommender-rag&theme=tokyonight&hide_border=true&bg_color=0d1117&title_color=6C63FF&icon_color=6C63FF" alt="AI Anime Recommender RAG"/>
+    <img src="https://github-readme-stats.vercel.app/api/pin/?username=farhanrhine&repo=ai-anime-recommender-rag&theme=tokyonight&hide_border=true&bg_color=0d1117&title_color=6C63FF&icon_color=6C63FF&text_color=ffffff&show_owner=true" alt="AI Anime Recommender RAG">
   </a>
   <a href="https://github.com/farhanrhine/paytm-local-mcp-server">
-    <img src="https://github-readme-stats.vercel.app/api/pin/?username=farhanrhine&repo=paytm-local-mcp-server&theme=tokyonight&hide_border=true&bg_color=0d1117&title_color=6C63FF&icon_color=6C63FF" alt="Paytm Local MCP Server"/>
+    <img src="https://github-readme-stats.vercel.app/api/pin/?username=farhanrhine&repo=paytm-local-mcp-server&theme=tokyonight&hide_border=true&bg_color=0d1117&title_color=6C63FF&icon_color=6C63FF&text_color=ffffff&show_owner=true" alt="Paytm Local MCP Server">
   </a>
 </p>
 
 <p align="center">
   <a href="https://github.com/farhanrhine/insurance-premium-prediction-fastapi-docker-aws">
-    <img src="https://github-readme-stats.vercel.app/api/pin/?username=farhanrhine&repo=insurance-premium-prediction-fastapi-docker-aws&theme=tokyonight&hide_border=true&bg_color=0d1117&title_color=6C63FF&icon_color=6C63FF" alt="Insurance Premium Prediction"/>
+    <img src="https://github-readme-stats.vercel.app/api/pin/?username=farhanrhine&repo=insurance-premium-prediction-fastapi-docker-aws&theme=tokyonight&hide_border=true&bg_color=0d1117&title_color=6C63FF&icon_color=6C63FF&text_color=ffffff&show_owner=true" alt="Insurance Premium Prediction">
   </a>
   <a href="https://github.com/farhanrhine/flight-satisfaction-mlops">
-    <img src="https://github-readme-stats.vercel.app/api/pin/?username=farhanrhine&repo=flight-satisfaction-mlops&theme=tokyonight&hide_border=true&bg_color=0d1117&title_color=6C63FF&icon_color=6C63FF" alt="Flight Satisfaction MLOps"/>
+    <img src="https://github-readme-stats.vercel.app/api/pin/?username=farhanrhine&repo=flight-satisfaction-mlops&theme=tokyonight&hide_border=true&bg_color=0d1117&title_color=6C63FF&icon_color=6C63FF&text_color=ffffff&show_owner=true" alt="Flight Satisfaction MLOps">
   </a>
 </p>
 
@@ -119,12 +119,12 @@ const farhan: AIEngineer = {
 ## 📊 GitHub Analytics
 
 <p align="center">
-  <img width="49%" src="https://github-readme-stats.vercel.app/api?username=farhanrhine&show_icons=true&theme=tokyonight&hide_border=true&bg_color=0d1117&title_color=6C63FF&icon_color=6C63FF&text_color=ffffff&count_private=true" alt="GitHub Stats"/>
-  <img width="49%" src="https://streak-stats.demolab.com?user=farhanrhine&theme=tokyonight&hide_border=true&background=0D1117&ring=6C63FF&fire=6C63FF&currStreakLabel=6C63FF" alt="GitHub Streak"/>
+  <img width="49%" src="https://github-readme-stats.vercel.app/api?username=farhanrhine&show_icons=true&theme=tokyonight&hide_border=true&bg_color=0d1117&title_color=6C63FF&icon_color=6C63FF&text_color=ffffff" alt="GitHub Stats"/>
+  <img width="49%" src="https://streak-stats.demolab.com?user=farhanrhine&theme=tokyonight&hide_border=true&background=0D1117&ring=6C63FF&fire=6C63FF&currStreakLabel=FFFFFF" alt="GitHub Streak"/>
 </p>
 
 <p align="center">
-  <img width="40%" src="https://github-readme-stats.vercel.app/api/top-langs/?username=farhanrhine&layout=compact&theme=tokyonight&hide_border=true&bg_color=0d1117&title_color=6C63FF&text_color=ffffff&langs_count=8" alt="Top Languages"/>
+  <img width="40%" src="https://github-readme-stats.vercel.app/api/top-langs/?username=farhanrhine&layout=compact&theme=tokyonight&hide_border=true&bg_color=0d1117&title_color=6C63FF&text_color=ffffff" alt="Top Languages"/>
 </p>
 
 ---
