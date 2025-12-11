@@ -1,18 +1,18 @@
 <img width="100%" src="https://capsule-render.vercel.app/api?type=waving&height=200&color=gradient&customColorList=2,2,2,2,2&section=header"/>
 
 <div align="center">
-  
-# 👋 Hey, I'm [Farhan](https://github.com/farhanrhine)
 
-<img src="https://readme-typing-svg.demolab.com?font=Fira+Code&weight=600&size=28&duration=3000&pause=500&color=6C63FF&center=true&vCenter=true&multiline=true&repeat=true&width=700&height=120&lines=%E2%9A%A1+AI%2FML+Engineer+%7C+Agentic+AI+Builder;%F0%9F%94%AE+Transforming+Ideas+into+Intelligent+Systems;%F0%9F%9A%80+LangChain+%7C+RAG+%7C+LLMs+%7C+MCP+%7C+FastAPI" alt="Typing SVG" />
+# 👋 Hey, I'm <a href="https://github.com/farhanrhine">Farhan</a>
+
+<img src="https://readme-typing-svg.demolab.com?font=Fira+Code&weight=600&size=26&duration=3000&pause=700&color=6C63FF&center=true&vCenter=true&multiline=true&repeat=true&width=760&height=120&lines=%E2%9A%A1+AI%2FML+Engineer+%7C+Agentic+AI+Builder;%F0%9F%94%AE+Transforming+Ideas+into+Intelligent+Systems;%F0%9F%9A%80+Langgraph+%7C+RAG+%7C+LLMs+%7C+MCP+%7C+FastAPI" />
 
 <img src="https://user-images.githubusercontent.com/74038190/212284100-561aa473-3905-4a80-b561-0d28506553ee.gif" width="700">
 
 <p>
   <a href="https://github.com/farhanrhine">
-    <img src="https://img.shields.io/github/followers/farhanrhine?label=Followers&style=social" alt="GitHub Followers">
+    <img src="https://img.shields.io/github/followers/farhanrhine?label=Followers&style=social" />
   </a>
-  <img src="https://komarev.com/ghpvc/?username=farhanrhine&label=Profile%20Views&color=6C63FF&style=flat" alt="Profile Views" />
+  <img src="https://komarev.com/ghpvc/?username=farhanrhine&label=Profile%20Views&color=6C63FF&style=flat" />
 </p>
 
 </div>
