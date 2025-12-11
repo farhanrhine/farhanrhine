@@ -20,25 +20,30 @@
 <img src="https://user-images.githubusercontent.com/74038190/212284115-f47cd8ff-2ffb-4b04-b5bf-4d1c14c0247f.gif" width="100%">
 
 ---
-
 ## ⭐ Featured Projects
 
 <p align="center">
+
   <a href="https://github.com/farhanrhine/ai-anime-recommender-rag">
-    <img src="https://github-readme-stats.vercel.app/api/pin/?username=farhanrhine&repo=ai-anime-recommender-rag&theme=tokyonight&hide_border=true&bg_color=0d1117&title_color=6C63FF&icon_color=6C63FF" alt="AI Anime Recommender RAG"/>
+    <img src="https://img.shields.io/badge/AI%20Anime%20Recommender%20RAG-0d1117?style=for-the-badge&logo=github&logoColor=6C63FF&labelColor=000000" />
   </a>
+
   <a href="https://github.com/farhanrhine/paytm-local-mcp-server">
-    <img src="https://github-readme-stats.vercel.app/api/pin/?username=farhanrhine&repo=paytm-local-mcp-server&theme=tokyonight&hide_border=true&bg_color=0d1117&title_color=6C63FF&icon_color=6C63FF" alt="Paytm Local MCP Server"/>
+    <img src="https://img.shields.io/badge/Paytm%20Local%20MCP%20Server-0d1117?style=for-the-badge&logo=github&logoColor=6C63FF&labelColor=000000" />
   </a>
+
 </p>
 
 <p align="center">
+
   <a href="https://github.com/farhanrhine/insurance-premium-prediction-fastapi-docker-aws">
-    <img src="https://github-readme-stats.vercel.app/api/pin/?username=farhanrhine&repo=insurance-premium-prediction-fastapi-docker-aws&theme=tokyonight&hide_border=true&bg_color=0d1117&title_color=6C63FF&icon_color=6C63FF" alt="Insurance Premium Prediction"/>
+    <img src="https://img.shields.io/badge/Insurance%20Premium%20Prediction-0d1117?style=for-the-badge&logo=github&logoColor=6C63FF&labelColor=000000" />
   </a>
+
   <a href="https://github.com/farhanrhine/flight-satisfaction-mlops">
-    <img src="https://github-readme-stats.vercel.app/api/pin/?username=farhanrhine&repo=flight-satisfaction-mlops&theme=tokyonight&hide_border=true&bg_color=0d1117&title_color=6C63FF&icon_color=6C63FF" alt="Flight Satisfaction MLOps"/>
+    <img src="https://img.shields.io/badge/Flight%20Satisfaction%20MLOps-0d1117?style=for-the-badge&logo=github&logoColor=6C63FF&labelColor=000000" />
   </a>
+
 </p>
 
 ---
