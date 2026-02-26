@@ -113,7 +113,6 @@ const farhan: AIEngineer = {
 
 ### 🗄️ Databases & Vector Stores
 <p align="center">
-  <img src="https://img.shields.io/badge/PostgreSQL-4169E1?style=for-the-badge&logo=postgresql&logoColor=white"/>
   <img src="https://img.shields.io/badge/Pinecone-000000?style=for-the-badge&logo=pinecone&logoColor=white"/>
   <img src="https://img.shields.io/badge/ChromaDB-FF6F61?style=for-the-badge&logoColor=white"/>
   <img src="https://img.shields.io/badge/DVC-13ADC7?style=for-the-badge&logo=dvc&logoColor=white"/>
