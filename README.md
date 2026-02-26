@@ -63,7 +63,7 @@ const farhan: AIEngineer = {
         ml: ["PyTorch", "TensorFlow", "Scikit-Learn"],
         backend: ["FastAPI", "Pydantic", "Python"],
         devops: ["Docker", "Git", "AWS", "GCP"],
-        databases: ["PostgreSQL", "Pinecone", "ChromaDB"]
+        databases: ["FAISS" "Pinecone", "ChromaDB", "Astra-DB"]
     },
     
     currentFocus: "Building Agentic AI Systems",
