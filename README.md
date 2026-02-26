@@ -89,7 +89,6 @@ const farhan: AIEngineer = {
   <img src="https://img.shields.io/badge/RAG-8A2BE2?style=for-the-badge&logo=openai&logoColor=white"/>
   <img src="https://img.shields.io/badge/LLMs-412991?style=for-the-badge&logo=openai&logoColor=white"/>
   <img src="https://img.shields.io/badge/MCP-000000?style=for-the-badge&logo=anthropic&logoColor=white"/>
-  <img src="https://img.shields.io/badge/Groq-F55036?style=for-the-badge&logo=groq&logoColor=white"/>
 </p>
 
 ### 🧠 Machine Learning & Data
