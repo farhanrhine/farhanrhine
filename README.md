@@ -1,10 +1,10 @@
-<img width="100%" src="https://capsule-render.vercel.app/api?type=waving&height=200&color=gradient&customColorList=2,2,2,2,2&section=header"/>
+<img width="100%" src="https://capsule-render.vercel.app/api?type=waving&height=200&color=6C63FF&section=header"/>
 
 <div align="center">
 
-# 👋 Hey, I'm <a href="https://github.com/farhanrhine">Farhan</a>
+# 👋 Hey, I'm <a href="https://github.com/farhanrhine">Farhan | فرحان </a>
 
-<img src="https://readme-typing-svg.demolab.com?font=Fira+Code&weight=600&size=26&duration=3000&pause=700&color=6C63FF&center=true&vCenter=true&multiline=true&repeat=true&width=760&height=120&lines=%E2%9A%A1+AI%2FML+Engineer+%7C+Agentic+AI+Builder;%F0%9F%94%AE+Production-Ready+AI+Systems+on+GCP;%F0%9F%9A%80+LangGraph+%7C+RAG+%7C+LLMOps+%7C+CI%2FCD" />
+<img src="https://readme-typing-svg.demolab.com?font=Fira+Code&weight=600&size=26&duration=3000&pause=700&color=6C63FF&center=true&vCenter=true&multiline=true&repeat=true&width=760&height=120&lines=%E2%9A%A1+ML%2FAI+Engineer+%7C+Agentic+AI+Builder;%F0%9F%94%AE+Production-Ready+AI+Systems+on+GCP;%F0%9F%9A%80+LangGraph+%7C+RAG+%7C+LLMOps+%7C+CI%2FCD" />
 
 <img src="https://user-images.githubusercontent.com/74038190/212284100-561aa473-3905-4a80-b561-0d28506553ee.gif" width="700">
 
@@ -44,8 +44,7 @@ const farhan: ML & AI Engineer = {
     currentFocus: "Building Production-Grade Agentic AI Systems",
     
     deployed: "6+ AI Agents on GCP & 3 ML project on aws with Full CI/CD",
-    
-    funFact: "I turn coffee into intelligent systems ☕→🤖"
+
 };
 ```
 
@@ -267,17 +266,22 @@ const farhan: ML & AI Engineer = {
 
 <table>
 <tr>
-<td width="33%" align="center">
+<td width="25%" align="center">
 <img src="https://img.icons8.com/fluency/96/000000/artificial-intelligence.png" width="60"/>
 <h3>Agentic AI Systems</h3>
 <p>Multi-agent architectures with LangGraph for complex reasoning and autonomous task execution</p>
 </td>
-<td width="33%" align="center">
+<td width="25%" align="center">
+<img src="https://img.icons8.com/fluency/96/000000/brain.png" width="60"/>
+<h3>ML & Deep Learning</h3>
+<p>Neural networks, CNNs, LSTMs, and computer vision models with PyTorch and TensorFlow</p>
+</td>
+<td width="25%" align="center">
 <img src="https://img.icons8.com/fluency/96/000000/cloud.png" width="60"/>
 <h3>Cloud-Native ML</h3>
 <p>Production deployments on GCP/AWS with Kubernetes, Docker, and complete CI/CD pipelines</p>
 </td>
-<td width="33%" align="center">
+<td width="25%" align="center">
 <img src="https://img.icons8.com/fluency/96/000000/data-configuration.png" width="60"/>
 <h3>RAG Pipelines</h3>
 <p>Retrieval-augmented generation systems with vector databases for intelligent information retrieval</p>
@@ -309,7 +313,7 @@ const farhan: ML & AI Engineer = {
 ## 📫 Let's Collaborate!
 
 <p align="center">
-💡 <b>Open to opportunities in ML & AI Engineering, Agentic AI, and LLMOps</b>
+💡 <b>Open to opportunities in ML & AI Engineering, Agentic AI, and LLMOps, MLOps</b>
 </p>
 
 <p align="center">
@@ -331,9 +335,12 @@ I'm passionate about building intelligent systems that solve real-world problems
 ---
 
 <p align="center">
-  <b>🧠 "The goal of AI is not to replace human intelligence, but to amplify it — building systems that think with us, not for us."</b>
+  <b>🧠 "AI is the tool, but the human touch is the master. I use it to amplify my work, not replace my thinking."</b>
 </p>
 
 <img src="https://user-images.githubusercontent.com/74038190/212284115-f47cd8ff-2ffb-4b04-b5bf-4d1c14c0247f.gif" width="100%">
 
-<img width="100%" src="https://capsule-render.vercel.app/api?type=waving&color=gradient&customColorList=2,2,2,2,2&height=120&section=footer"/>
+
+<img width="100%" src="https://capsule-render.vercel.app/api?type=waving&color=6C63FF&height=120&section=footer"/>
+
+
