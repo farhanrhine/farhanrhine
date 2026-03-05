@@ -43,7 +43,7 @@ const farhan: AIEngineer = {
     
     currentFocus: "Building Production-Grade Agentic AI Systems",
     
-    deployed: "10+ AI Agents on GCP with Full CI/CD",
+    deployed: "6+ AI Agents on GCP & 4+ ML project on with Full CI/CD",
     
     funFact: "I turn coffee into intelligent systems ☕→🤖"
 };
@@ -309,7 +309,7 @@ const farhan: AIEngineer = {
 ## 📫 Let's Collaborate!
 
 <p align="center">
-💡 <b>Open to opportunities in AI/ML Engineering, Agentic AI, and LLMOps</b>
+💡 <b>Open to opportunities in ML & AI Engineering, Agentic AI, and LLMOps</b>
 </p>
 
 <p align="center">
@@ -321,6 +321,7 @@ I'm passionate about building intelligent systems that solve real-world problems
 ✅ Production RAG pipelines<br>
 ✅ MLOps & Cloud deployments<br>
 ✅ LangChain/LangGraph applications
+✅ Machine Learning application 
 </p>
 
 <p align="center">
