@@ -4,7 +4,7 @@
 
 # 👋 Hey, I'm <a href="https://github.com/farhanrhine">Farhan | فرحان </a>
 
-<img src="https://readme-typing-svg.demolab.com?font=Fira+Code&weight=600&size=26&duration=3000&pause=700&color=6C63FF&center=true&vCenter=true&multiline=true&repeat=true&width=760&height=120&lines=%E2%9A%A1+ML%2FAI+Engineer+%7C+Agentic+AI+Builder;%F0%9F%94%AE+Production-Ready+AI+Systems+on+GCP;%F0%9F%9A%80+LangGraph+%7C+RAG+%7C+LLMOps+%7C+CI%2FCD" />
+<img src="https://readme-typing-svg.demolab.com?font=Fira+Code&weight=600&size=26&duration=3000&pause=700&color=6C63FF&center=true&vCenter=true&multiline=true&repeat=true&width=760&height=120&lines=%E2%9A%A1+ML%2FAI+Engineer+%7C+Agentic+AI+Builder;%F0%9F%94%AE+Production-Ready+AI+Systems+on+CLOUD;%F0%9F%9A%80+LangGraph+%7C+RAG+%7C+LLMOps+%7C+CI%2FCD" />
 
 <img src="https://user-images.githubusercontent.com/74038190/212284100-561aa473-3905-4a80-b561-0d28506553ee.gif" width="700">
 
