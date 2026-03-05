@@ -324,8 +324,8 @@ I'm passionate about building intelligent systems that solve real-world problems
 ✅ Multi-agent AI systems<br>
 ✅ Production RAG pipelines<br>
 ✅ MLOps & Cloud deployments<br>
-✅ LangChain/LangGraph applications
-✅ Machine Learning application 
+✅ LangChain/LangGraph applications<br>
+✅ Machine Learning & DEEP Learning application 
 </p>
 
 <p align="center">
