@@ -67,19 +67,19 @@ const farhan: ML & AI Engineer = {
 - Jenkins + SonarQube CI/CD
 - ☁️ **GCP Cloud Run**
 
-[![Repo](https://img.shields.io/badge/View_Repo-6C63FF?style=for-the-badge&logo=github)](https://github.com/farhanrhine/multi-ai-agent-system)
+[![Repo](https://img.shields.io/badge/View_Repo-6C63FF?style=for-the-badge&logo=github)](https://github.com/farhanrhine/multi-ai-agent-gcp.git)
 
 </td>
 <td width="50%">
 
-#### 🏥 Medical RAG AI Agent
+#### 🏥 Medical RAG AI Agent (MedAssist-AI)
 **LangChain | FAISS | Flask | Trivy**
 - Healthcare chatbot with RAG
 - GALE Encyclopedia knowledge base
 - Security scanning with Trivy
 - ☁️ **GCP Cloud Run**
 
-[![Repo](https://img.shields.io/badge/View_Repo-6C63FF?style=for-the-badge&logo=github)](https://github.com/farhanrhine/medical-rag-ai-agent)
+[![Repo](https://img.shields.io/badge/View_Repo-6C63FF?style=for-the-badge&logo=github)](https://github.com/farhanrhine/MedAssist-AI)
 
 </td>
 </tr>
@@ -94,19 +94,19 @@ const farhan: ML & AI Engineer = {
 - Nginx Ingress + Let's Encrypt TLS
 - ☁️ **GKE Deployment**
 
-[![Repo](https://img.shields.io/badge/View_Repo-6C63FF?style=for-the-badge&logo=github)](https://github.com/farhanrhine/celebrity-face-detection-agent)
+[![Repo](https://img.shields.io/badge/View_Repo-6C63FF?style=for-the-badge&logo=github)](https://github.com/farhanrhine/face-detect-ai-agent-gcp)
 
 </td>
 <td width="50%">
 
-#### 🎵 AI Music Composer Agent
+#### 🎵 AI Sound Composer Agent
 **LangChain | NumPy | SciPy | Streamlit**
-- Agentic music composition
+- Agentic Sound composition
 - Custom audio synthesis engine
 - ADSR envelopes + harmonics
 - ☁️ **GKE + GitLab CI/CD**
 
-[![Repo](https://img.shields.io/badge/View_Repo-6C63FF?style=for-the-badge&logo=github)](https://github.com/farhanrhine/ai-music-composer-agent)
+[![Repo](https://img.shields.io/badge/View_Repo-6C63FF?style=for-the-badge&logo=github)](https://github.com/farhanrhine/music-composer-ai-agent-gcp)
 
 </td>
 </tr>
@@ -117,11 +117,11 @@ const farhan: ML & AI Engineer = {
 #### 📚 Recall AI Study Agent
 **FastAPI | LangChain | Kubernetes | Argo CD**
 - Single-File Architecture
-- Teach-then-test workflow
+- Teach-then-test workflow (inspired by Chatgpt study mode)
 - Contextual quiz generation
 - ☁️ **Kubernetes + Argo CD**
 
-[![Repo](https://img.shields.io/badge/View_Repo-6C63FF?style=for-the-badge&logo=github)](https://github.com/farhanrhine/recall-ai-study-agent)
+[![Repo](https://img.shields.io/badge/View_Repo-6C63FF?style=for-the-badge&logo=github)](https://github.com/farhanrhine/recall-ai-agent-gcp)
 
 </td>
 <td width="50%">
@@ -133,7 +133,7 @@ const farhan: ML & AI Engineer = {
 - Complete CI/CD pipeline
 - ☁️ **GCP Cloud Run**
 
-[![Repo](https://img.shields.io/badge/View_Repo-6C63FF?style=for-the-badge&logo=github)](https://github.com/farhanrhine/flipkart-shopping-agent)
+[![Repo](https://img.shields.io/badge/View_Repo-6C63FF?style=for-the-badge&logo=github)](https://github.com/farhanrhine/flipkart-shopping-agent-gcp)
 
 </td>
 </tr>
