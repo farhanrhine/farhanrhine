@@ -27,9 +27,9 @@
 <img align="right" alt="Coding" width="400" src="https://user-images.githubusercontent.com/74038190/229223263-cf2e4b07-2615-4f87-9c38-e37600f8381a.gif"/>
 
 ```typescript
-const farhan: AIEngineer = {
+const farhan: ML & AI Engineer = {
     name: "Farhan",
-    title: "AI/ML Engineer",
+    title: "ML & AI Engineer",
     location: "Building the Future 🌍",
     
     expertise: {
@@ -43,7 +43,7 @@ const farhan: AIEngineer = {
     
     currentFocus: "Building Production-Grade Agentic AI Systems",
     
-    deployed: "6+ AI Agents on GCP & 4+ ML project on with Full CI/CD",
+    deployed: "6+ AI Agents on GCP & 3 ML project on aws with Full CI/CD",
     
     funFact: "I turn coffee into intelligent systems ☕→🤖"
 };
