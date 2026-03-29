@@ -1,346 +1,434 @@
-<img width="100%" src="https://capsule-render.vercel.app/api?type=waving&height=200&color=6C63FF&section=header"/>
-
 <div align="center">
 
-# 👋 Hey, I'm <a href="https://github.com/farhanrhine">Farhan | فرحان </a>
+<img src="https://capsule-render.vercel.app/api?type=rect&color=CC785C,D4A574,1a1a1a&height=4&section=header&reversal=false" width="100%"/>
 
-<img src="https://readme-typing-svg.demolab.com?font=Fira+Code&weight=600&size=26&duration=3000&pause=700&color=6C63FF&center=true&vCenter=true&multiline=true&repeat=true&width=760&height=120&lines=%E2%9A%A1+ML%2FAI+Engineer+%7C+Agentic+AI+Builder;%F0%9F%94%AE+Production-Ready+AI+Systems+on+CLOUD;%F0%9F%9A%80+LangGraph+%7C+RAG+%7C+LLMOps+%7C+CI%2FCD" />
+```
+╔══════════════════════════════════════════════════════════════╗
+║  > initializing farhan.ai                                    ║
+║  > loading: agentic systems, rag pipelines, cloud-native ml  ║
+║  > status: BUILDING                                          ║
+╚══════════════════════════════════════════════════════════════╝
+```
 
-<img src="https://user-images.githubusercontent.com/74038190/212284100-561aa473-3905-4a80-b561-0d28506553ee.gif" width="700">
+# Farhan &nbsp;·&nbsp; فرحان
 
-<p>
-  <a href="https://github.com/farhanrhine">
-    <img src="https://img.shields.io/github/followers/farhanrhine?label=Followers&style=social" />
-  </a>
-  <img src="https://komarev.com/ghpvc/?username=farhanrhine&label=Profile%20Views&color=6C63FF&style=flat" />
-  <img src="https://img.shields.io/badge/AI%20Agents%20Built-10%2B-6C63FF?style=flat&logo=openai" />
-</p>
+**ML & AI Engineer** &nbsp;|&nbsp; Agentic AI Builder &nbsp;|&nbsp; Cloud-Native Systems
+
+<img src="https://readme-typing-svg.demolab.com?font=JetBrains+Mono&weight=500&size=16&duration=3000&pause=800&color=CC785C&center=true&vCenter=true&width=600&lines=Building+production-grade+agentic+systems;RAG+pipelines+that+actually+work+in+prod;LangGraph+%7C+LangChain+%7C+MCP+%7C+LLMOps;22%2B+projects+shipped+across+GCP+%26+AWS" />
+
+[![GitHub](https://img.shields.io/badge/GitHub-farhanrhine-1a1a1a?style=flat-square&logo=github&logoColor=CC785C)](https://github.com/farhanrhine)
+[![LinkedIn](https://img.shields.io/badge/LinkedIn-farhanrhine-1a1a1a?style=flat-square&logo=linkedin&logoColor=CC785C)](https://linkedin.com/in/farhanrhine)
+[![Portfolio](https://img.shields.io/badge/Portfolio-farhanrhine.github.io-1a1a1a?style=flat-square&logo=google-chrome&logoColor=CC785C)](https://farhanrhine.github.io)
+[![Email](https://img.shields.io/badge/Email-mohammadfarhanalam09-1a1a1a?style=flat-square&logo=gmail&logoColor=CC785C)](mailto:mohammadfarhanalam09@gmail.com)
+
+<img src="https://capsule-render.vercel.app/api?type=rect&color=CC785C,D4A574,1a1a1a&height=2&section=header&reversal=false" width="100%"/>
 
 </div>
 
-<img src="https://user-images.githubusercontent.com/74038190/212284115-f47cd8ff-2ffb-4b04-b5bf-4d1c14c0247f.gif" width="100%">
+<br/>
 
----
+## `whoami`
 
-## 🚀 About Me
-
-<img align="right" alt="Coding" width="400" src="https://user-images.githubusercontent.com/74038190/229223263-cf2e4b07-2615-4f87-9c38-e37600f8381a.gif"/>
-
-```typescript
-const farhan: ML & AI Engineer = {
-    name: "Farhan",
-    title: "ML & AI Engineer",
-    location: "Building the Future 🌍",
-    
-    expertise: {
-        aiml: ["LangChain", "LangGraph", "RAG", "LLMs", "MCP"],
-        ml: ["PyTorch", "TensorFlow", "Scikit-Learn", "OpenCV"],
-        backend: ["FastAPI", "Flask", "Pydantic", "Streamlit"],
-        mlops: ["Docker", "Kubernetes", "Jenkins", "CI/CD"],
-        cloud: ["GCP", "AWS", "GKE", "Cloud Run"],
-        databases: ["FAISS", "ChromaDB", "Pinecone", "Astra-DB"]
-    },
-    
-    currentFocus: "Building Production-Grade Agentic AI Systems",
-    
-    deployed: "6+ AI Agents on GCP & 3 ML project on aws with Full CI/CD",
-
-};
+```python
+farhan = {
+    "role"        : "ML & AI Engineer",
+    "focus"       : "Production-grade Agentic AI Systems",
+    "approach"    : "understand every line — not vibe coding",
+    "deployed"    : "22+ projects across GCP, AWS & Kubernetes",
+    "currently"   : ["building Spendly", "deep-diving MCP", "LangGraph patterns"],
+    "belief"      : "The gap between notebook and production is where real engineering lives.",
+}
 ```
 
-<br clear="both"/>
+I don't chase demos. I build systems that run in prod — with CI/CD, container security, observability, and infra that survives real usage. Every project is an attempt to close the gap between "it works on my machine" and "it works at 3am on Cloud Run."
+
+Currently a final-year CS student at Chandigarh University, ex-Infosys Springboard 5.0 AI/ML intern, and actively seeking ML & AI engineering opportunities.
+
+<br/>
 
 ---
 
-## ⭐ Featured Projects
+## `./projects --year 2026`
 
-### 🔥 Production-Ready AI Agents (GCP Deployed)
+> Most recent work. Production deployments, real pipelines, actual systems.
 
 <table>
 <tr>
-<td width="50%">
+<td width="50%" valign="top">
 
 #### 🤖 Multi-AI Agent System
-**LangGraph | Groq | Tavily | FastAPI**
-- Custom StateGraph architecture
-- Real-time streaming responses
-- Jenkins + SonarQube CI/CD
-- ☁️ **GCP Cloud Run**
+`LangGraph` `Groq` `Tavily` `FastAPI` `GCP Cloud Run`
 
-[![Repo](https://img.shields.io/badge/View_Repo-6C63FF?style=for-the-badge&logo=github)](https://github.com/farhanrhine/multi-ai-agent-gcp.git)
+Custom StateGraph architecture with real-time streaming. Jenkins + SonarQube CI/CD. One of the first things I shipped end-to-end on GCP.
+
+[![Repo](https://img.shields.io/badge/View_Repo-1a1a1a?style=flat-square&logo=github&logoColor=CC785C)](https://github.com/farhanrhine/multi-ai-agent-gcp)
 
 </td>
-<td width="50%">
+<td width="50%" valign="top">
 
-#### 🏥 Medical RAG AI Agent (MedAssist-AI)
-**LangChain | FAISS | Flask | Trivy**
-- Healthcare chatbot with RAG
-- GALE Encyclopedia knowledge base
-- Security scanning with Trivy
-- ☁️ **GCP Cloud Run**
+#### 🏥 MedAssist-AI — Medical RAG Agent
+`LangChain` `FAISS` `Flask` `Trivy` `GCP Cloud Run`
 
-[![Repo](https://img.shields.io/badge/View_Repo-6C63FF?style=for-the-badge&logo=github)](https://github.com/farhanrhine/MedAssist-AI)
+RAG over GALE Encyclopedia with source citations. Container security via Trivy. Healthcare use case — accuracy matters.
+
+[![Repo](https://img.shields.io/badge/View_Repo-1a1a1a?style=flat-square&logo=github&logoColor=CC785C)](https://github.com/farhanrhine/MedAssist-AI)
 
 </td>
 </tr>
 
 <tr>
-<td width="50%">
+<td width="50%" valign="top">
 
 #### 🎭 Celebrity Face Detection Agent
-**OpenCV | Groq Llama 4 | Flask | CircleCI**
-- AI-powered face detection
-- Interactive Q&A engine
-- Nginx Ingress + Let's Encrypt TLS
-- ☁️ **GKE Deployment**
+`OpenCV` `Groq Llama 4` `Flask` `CircleCI` `GKE`
 
-[![Repo](https://img.shields.io/badge/View_Repo-6C63FF?style=for-the-badge&logo=github)](https://github.com/farhanrhine/face-detect-ai-agent-gcp)
+AI-powered face identification + Q&A engine. Nginx Ingress, Let's Encrypt TLS, full K8s deployment.
+
+[![Repo](https://img.shields.io/badge/View_Repo-1a1a1a?style=flat-square&logo=github&logoColor=CC785C)](https://github.com/farhanrhine/face-detect-ai-agent-gcp)
 
 </td>
-<td width="50%">
+<td width="50%" valign="top">
 
-#### 🎵 AI Sound Composer Agent
-**LangChain | NumPy | SciPy | Streamlit**
-- Agentic Sound composition
-- Custom audio synthesis engine
-- ADSR envelopes + harmonics
-- ☁️ **GKE + GitLab CI/CD**
+#### 📚 Recall AI — Study Agent
+`FastAPI` `LangChain` `Kubernetes` `Argo CD`
 
-[![Repo](https://img.shields.io/badge/View_Repo-6C63FF?style=for-the-badge&logo=github)](https://github.com/farhanrhine/music-composer-ai-agent-gcp)
+Teach-then-test workflow. Contextual quiz generation from chat history. Single-file architecture, GitOps deployment via Argo CD.
+
+[![Repo](https://img.shields.io/badge/View_Repo-1a1a1a?style=flat-square&logo=github&logoColor=CC785C)](https://github.com/farhanrhine/recall-ai-agent-gcp)
 
 </td>
 </tr>
 
 <tr>
-<td width="50%">
+<td width="50%" valign="top">
 
-#### 📚 Recall AI Study Agent
-**FastAPI | LangChain | Kubernetes | Argo CD**
-- Single-File Architecture
-- Teach-then-test workflow (inspired by Chatgpt study mode)
-- Contextual quiz generation
-- ☁️ **Kubernetes + Argo CD**
+#### 🎵 AI Music Composer Agent
+`LangChain` `NumPy` `SciPy` `Streamlit` `GKE`
 
-[![Repo](https://img.shields.io/badge/View_Repo-6C63FF?style=for-the-badge&logo=github)](https://github.com/farhanrhine/recall-ai-agent-gcp)
+Agentic composition with custom additive synthesis engine — ADSR envelopes, harmonics, the works. GitLab CI/CD.
+
+[![Repo](https://img.shields.io/badge/View_Repo-1a1a1a?style=flat-square&logo=github&logoColor=CC785C)](https://github.com/farhanrhine/music-composer-ai-agent-gcp)
 
 </td>
-<td width="50%">
+<td width="50%" valign="top">
+
+#### ✈️ Travel Planner AI Agent
+`Whisper STT` `Orpheus TTS` `LangChain` `Folium` `K8s`
+
+Voice in, narrated itinerary out, interactive route map rendered. ELK stack monitoring on Kubernetes.
+
+[![Repo](https://img.shields.io/badge/View_Repo-1a1a1a?style=flat-square&logo=github&logoColor=CC785C)](https://github.com/farhanrhine/travel-planner-ai-agent-gcp)
+
+</td>
+</tr>
+
+<tr>
+<td width="50%" valign="top">
+
+#### 🔬 Research DeepAgent
+`LangGraph` `LangChain` `Autonomous Agents`
+
+Planning + subagent spawning + filesystem backend. Complex autonomous research tasks — not just a chatbot wrapper.
+
+[![Repo](https://img.shields.io/badge/View_Repo-1a1a1a?style=flat-square&logo=github&logoColor=CC785C)](https://github.com/farhanrhine/research-deepagent)
+
+</td>
+<td width="50%" valign="top">
+
+#### 🛒 Retail AI Agent
+`LangChain` `Qwen3-32B` `LangSmith` `FastAPI`
+
+Dual-mode: personal shopper + support assistant. Routes between 4 tools, enforces return policies from CSV with zero hallucinations. LangSmith observability.
+
+[![Repo](https://img.shields.io/badge/View_Repo-1a1a1a?style=flat-square&logo=github&logoColor=CC785C)](https://github.com/farhanrhine/Retail-AI-Agent)
+
+</td>
+</tr>
+
+<tr>
+<td width="50%" valign="top">
+
+#### 🤝 OpenClaw Retail Support
+`OpenClaw` `GLM-4.5-Air` `WhatsApp` `Telegram`
+
+Autonomous customer support over WhatsApp + Telegram. Custom tool-invocation layer, smart escalation logic for edge cases that need humans.
+
+[![Repo](https://img.shields.io/badge/View_Repo-1a1a1a?style=flat-square&logo=github&logoColor=CC785C)](https://github.com/farhanrhine/OpenClaw-Retail-Support-Agent)
+
+</td>
+<td width="50%" valign="top">
+
+#### 🧠 Tourism Recommendation System
+`PyTorch` `Neural Collaborative Filtering` `Streamlit`
+
+Hybrid deep learning — NCF + content-based models fused via learnable attention mechanism. Predicts destination preferences dynamically.
+
+[![Repo](https://img.shields.io/badge/View_Repo-1a1a1a?style=flat-square&logo=github&logoColor=CC785C)](https://github.com/farhanrhine/Deep_Learning-Tourism_Recommendation)
+
+</td>
+</tr>
+
+<tr>
+<td width="50%" valign="top">
+
+#### 🕌 Quran Bigram Model
+`NLP` `Bigram Analysis` `Statistical Modeling`
+
+Statistical language model over Quranic text. Explores linguistic patterns in classical Arabic — this one is personal.
+
+[![Repo](https://img.shields.io/badge/View_Repo-1a1a1a?style=flat-square&logo=github&logoColor=CC785C)](https://github.com/farhanrhine/quran-bigram-model)
+
+</td>
+<td width="50%" valign="top">
+
+#### 💍 Multi-Agent Wedding Planner
+`Multi-Agent` `Coordination` `Planning`
+
+Specialized agents collaborating — venue, catering, budget, timeline. Good testbed for inter-agent coordination patterns.
+
+[![Repo](https://img.shields.io/badge/View_Repo-1a1a1a?style=flat-square&logo=github&logoColor=CC785C)](https://github.com/farhanrhine/Multi-Agent-Wedding-Planner)
+
+</td>
+</tr>
+
+<tr>
+<td width="50%" valign="top">
+
+#### ⚡ IoT Power Consumption Analysis
+`Scikit-Learn` `Pandas` `Time-Series EDA`
+
+End-to-end ML on IoT electrical data — power computation, pattern identification, high-usage anomaly detection.
+
+[![Repo](https://img.shields.io/badge/View_Repo-1a1a1a?style=flat-square&logo=github&logoColor=CC785C)](https://github.com/farhanrhine/IoT-Power-Consumption-Analysis)
+
+</td>
+<td width="50%" valign="top">
 
 #### 🛒 Flipkart Shopping Agent
-**LangChain | FastAPI | GCP**
-- Intelligent shopping assistant
-- Natural language product search
-- Complete CI/CD pipeline
-- ☁️ **GCP Cloud Run**
+`LangChain` `FastAPI` `GCP Cloud Run`
 
-[![Repo](https://img.shields.io/badge/View_Repo-6C63FF?style=for-the-badge&logo=github)](https://github.com/farhanrhine/flipkart-shopping-agent-gcp)
+Natural language product search and comparison. Full CI/CD, cloud-native architecture. Production deployment.
+
+[![Repo](https://img.shields.io/badge/View_Repo-1a1a1a?style=flat-square&logo=github&logoColor=CC785C)](https://github.com/farhanrhine/flipkart-shopping-agent-gcp)
 
 </td>
 </tr>
 </table>
 
-### 🌟 Additional AI/ML Projects
-
-<p align="center">
-  <a href="https://github.com/farhanrhine/ai-anime-recommender-rag">
-    <img src="https://img.shields.io/badge/AI%20Anime%20Recommender%20RAG-0d1117?style=for-the-badge&logo=github&logoColor=6C63FF&labelColor=000000" />
-  </a>
-  <a href="https://github.com/farhanrhine/paytm-local-mcp-server">
-    <img src="https://img.shields.io/badge/Paytm%20Local%20MCP%20Server-0d1117?style=for-the-badge&logo=github&logoColor=6C63FF&labelColor=000000" />
-  </a>
-</p>
-
-<p align="center">
-  <a href="https://github.com/farhanrhine/insurance-premium-prediction-fastapi-docker-aws">
-    <img src="https://img.shields.io/badge/Insurance%20Premium%20Prediction-0d1117?style=for-the-badge&logo=github&logoColor=6C63FF&labelColor=000000" />
-  </a>
-  <a href="https://github.com/farhanrhine/flight-satisfaction-mlops">
-    <img src="https://img.shields.io/badge/Flight%20Satisfaction%20MLOps-0d1117?style=for-the-badge&logo=github&logoColor=6C63FF&labelColor=000000" />
-  </a>
-</p>
+<br/>
 
 ---
 
-## 🛠️ Tech Arsenal
-
-<p align="center">
-  <img src="https://skillicons.dev/icons?i=python,pytorch,tensorflow,fastapi,docker,kubernetes,git,github,gitlab,vscode,aws,gcp,linux,jenkins&perline=7&theme=dark" alt="Tech Stack"/>
-</p>
-
-### 🤖 Generative AI & LLMs
-<p align="center">
-  <img src="https://img.shields.io/badge/LangChain-1C3C3C?style=for-the-badge&logo=langchain&logoColor=white"/>
-  <img src="https://img.shields.io/badge/LangGraph-FF6F00?style=for-the-badge&logo=langchain&logoColor=white"/>
-  <img src="https://img.shields.io/badge/RAG-8A2BE2?style=for-the-badge&logo=openai&logoColor=white"/>
-  <img src="https://img.shields.io/badge/AI%20Agents-412991?style=for-the-badge&logo=openai&logoColor=white"/>
-  <img src="https://img.shields.io/badge/LLMOps-000000?style=for-the-badge&logo=anthropic&logoColor=white"/>
-  <img src="https://img.shields.io/badge/MCP-000000?style=for-the-badge&logo=anthropic&logoColor=white"/>
-  <img src="https://img.shields.io/badge/Groq-FF6F00?style=for-the-badge&logoColor=white"/>
-  <img src="https://img.shields.io/badge/Llama-0467DF?style=for-the-badge&logo=meta&logoColor=white"/>
-</p>
-
-### 🧠 Machine Learning & Computer Vision
-<p align="center">
-  <img src="https://img.shields.io/badge/PyTorch-EE4C2C?style=for-the-badge&logo=pytorch&logoColor=white"/>
-  <img src="https://img.shields.io/badge/TensorFlow-FF6F00?style=for-the-badge&logo=tensorflow&logoColor=white"/>
-  <img src="https://img.shields.io/badge/Scikit--Learn-F7931E?style=for-the-badge&logo=scikit-learn&logoColor=white"/>
-  <img src="https://img.shields.io/badge/OpenCV-5C3EE8?style=for-the-badge&logo=opencv&logoColor=white"/>
-  <img src="https://img.shields.io/badge/NumPy-013243?style=for-the-badge&logo=numpy&logoColor=white"/>
-  <img src="https://img.shields.io/badge/Pandas-150458?style=for-the-badge&logo=pandas&logoColor=white"/>
-</p>
-
-### ⚙️ MLOps & DevOps
-<p align="center">
-  <img src="https://img.shields.io/badge/Docker-2496ED?style=for-the-badge&logo=docker&logoColor=white"/>
-  <img src="https://img.shields.io/badge/Kubernetes-326CE5?style=for-the-badge&logo=kubernetes&logoColor=white"/>
-  <img src="https://img.shields.io/badge/Jenkins-D24939?style=for-the-badge&logo=jenkins&logoColor=white"/>
-  <img src="https://img.shields.io/badge/GitLab_CI/CD-FC6D26?style=for-the-badge&logo=gitlab&logoColor=white"/>
-  <img src="https://img.shields.io/badge/CircleCI-343434?style=for-the-badge&logo=circleci&logoColor=white"/>
-  <img src="https://img.shields.io/badge/Argo_CD-EF7B4D?style=for-the-badge&logo=argo&logoColor=white"/>
-  <img src="https://img.shields.io/badge/SonarQube-4E9BCD?style=for-the-badge&logo=sonarqube&logoColor=white"/>
-  <img src="https://img.shields.io/badge/Trivy-1904DA?style=for-the-badge&logo=aquasecurity&logoColor=white"/>
-  <img src="https://img.shields.io/badge/MLflow-0194E2?style=for-the-badge&logo=mlflow&logoColor=white"/>
-</p>
-
-### ☁️ Cloud & Infrastructure
-<p align="center">
-  <img src="https://img.shields.io/badge/GCP-4285F4?style=for-the-badge&logo=google-cloud&logoColor=white"/>
-  <img src="https://img.shields.io/badge/AWS-232F3E?style=for-the-badge&logo=amazon-aws&logoColor=white"/>
-  <img src="https://img.shields.io/badge/GKE-4285F4?style=for-the-badge&logo=google-cloud&logoColor=white"/>
-  <img src="https://img.shields.io/badge/Cloud_Run-4285F4?style=for-the-badge&logo=google-cloud&logoColor=white"/>
-  <img src="https://img.shields.io/badge/AWS_EC2-FF9900?style=for-the-badge&logo=amazon-ec2&logoColor=white"/>
-  <img src="https://img.shields.io/badge/Amazon_ECS-FF9900?style=for-the-badge&logo=amazon-ecs&logoColor=white"/>
-  <img src="https://img.shields.io/badge/Nginx_Ingress-009639?style=for-the-badge&logo=nginx&logoColor=white"/>
-</p>
-
-### ⚡ Backend & APIs
-<p align="center">
-  <img src="https://img.shields.io/badge/FastAPI-009688?style=for-the-badge&logo=fastapi&logoColor=white"/>
-  <img src="https://img.shields.io/badge/Flask-000000?style=for-the-badge&logo=flask&logoColor=white"/>
-  <img src="https://img.shields.io/badge/Pydantic-E92063?style=for-the-badge&logo=pydantic&logoColor=white"/>
-  <img src="https://img.shields.io/badge/Streamlit-FF4B4B?style=for-the-badge&logo=streamlit&logoColor=white"/>
-  <img src="https://img.shields.io/badge/REST_APIs-005571?style=for-the-badge&logoColor=white"/>
-</p>
-
-### 🗄️ Databases & Vector Stores
-<p align="center">
-  <img src="https://img.shields.io/badge/FAISS-00ADD8?style=for-the-badge&logoColor=white"/>
-  <img src="https://img.shields.io/badge/ChromaDB-FF6F61?style=for-the-badge&logoColor=white"/>
-  <img src="https://img.shields.io/badge/Pinecone-000000?style=for-the-badge&logo=pinecone&logoColor=white"/>
-  <img src="https://img.shields.io/badge/Astra_DB-3A3A3A?style=for-the-badge&logoColor=white"/>
-  <img src="https://img.shields.io/badge/SQLite-003B57?style=for-the-badge&logo=sqlite&logoColor=white"/>
-</p>
-
----
-
-## 📊 GitHub Analytics
-
-<p align="center">
-  <img width="49%" src="https://github-readme-stats.vercel.app/api?username=farhanrhine&show_icons=true&theme=tokyonight&hide_border=true&bg_color=0d1117&title_color=6C63FF&icon_color=6C63FF&text_color=ffffff&count_private=true" alt="GitHub Stats"/>
-  <img width="49%" src="https://streak-stats.demolab.com?user=farhanrhine&theme=tokyonight&hide_border=true&background=0D1117&ring=6C63FF&fire=6C63FF&currStreakLabel=6C63FF" alt="GitHub Streak"/>
-</p>
-
-<p align="center">
-  <img width="49%" src="https://github-readme-stats.vercel.app/api/top-langs/?username=farhanrhine&theme=tokyonight&hide_border=true&bg_color=0d1117&title_color=6C63FF&text_color=ffffff&layout=compact&langs_count=8" alt="Top Languages"/>
-</p>
-
----
-
-## 🏆 GitHub Trophies
-
-<p align="center">
-  <img src="https://github-profile-trophy.vercel.app/?username=farhanrhine&theme=discord&no-frame=true&no-bg=true&margin-w=4&row=1&column=7" alt="Trophies"/>
-</p>
-
----
-
-## 📈 Contribution Graph
-
-<p align="center">
-  <img src="https://github-readme-activity-graph.vercel.app/graph?username=farhanrhine&theme=react-dark&hide_border=true&bg_color=0d1117&color=6C63FF&line=6C63FF&point=ffffff&area=true&area_color=6C63FF" alt="Contribution Graph"/>
-</p>
-
----
-
-## 💼 What I Build
+## `./projects --year 2025`
 
 <table>
 <tr>
-<td width="25%" align="center">
-<img src="https://img.icons8.com/fluency/96/000000/artificial-intelligence.png" width="60"/>
-<h3>Agentic AI Systems</h3>
-<p>Multi-agent architectures with LangGraph for complex reasoning and autonomous task execution</p>
+<td width="50%" valign="top">
+
+#### 🎌 AI Anime Recommender RAG
+`ChromaDB` `Groq Llama 3.1` `FastAPI` `GKE`
+
+Production RAG on GKE. ChromaDB vector store, CI/CD pipeline, the whole stack.
+
+[![Repo](https://img.shields.io/badge/View_Repo-1a1a1a?style=flat-square&logo=github&logoColor=CC785C)](https://github.com/farhanrhine/ai-anime-recommender-rag)
+
 </td>
-<td width="25%" align="center">
-<img src="https://img.icons8.com/fluency/96/000000/brain.png" width="60"/>
-<h3>ML & Deep Learning</h3>
-<p>Neural networks, CNNs, LSTMs, and computer vision models with PyTorch and TensorFlow</p>
+<td width="50%" valign="top">
+
+#### ✈️ Flight Satisfaction MLOps
+`LightGBM` `MLflow` `DVC` `Jenkins` `Docker`
+
+End-to-end MLOps pipeline. Data versioning with DVC, experiment tracking with MLflow, reproducible from day one.
+
+[![Repo](https://img.shields.io/badge/View_Repo-1a1a1a?style=flat-square&logo=github&logoColor=CC785C)](https://github.com/farhanrhine/flight-satisfaction-mlops)
+
 </td>
-<td width="25%" align="center">
-<img src="https://img.icons8.com/fluency/96/000000/cloud.png" width="60"/>
-<h3>Cloud-Native ML</h3>
-<p>Production deployments on GCP/AWS with Kubernetes, Docker, and complete CI/CD pipelines</p>
+</tr>
+
+<tr>
+<td width="50%" valign="top">
+
+#### 💳 Paytm Local MCP Server
+`MCP` `Claude AI` `Privacy-First`
+
+Analyze Paytm UPI transactions in natural language. 100% local processing, strict schema validation, zero data leaves your machine.
+
+[![Repo](https://img.shields.io/badge/View_Repo-1a1a1a?style=flat-square&logo=github&logoColor=CC785C)](https://github.com/farhanrhine/paytm-local-mcp-server)
+
 </td>
-<td width="25%" align="center">
-<img src="https://img.icons8.com/fluency/96/000000/data-configuration.png" width="60"/>
-<h3>RAG Pipelines</h3>
-<p>Retrieval-augmented generation systems with vector databases for intelligent information retrieval</p>
+<td width="50%" valign="top">
+
+#### 🏥 Insurance Premium Prediction
+`Regression` `FastAPI` `Docker` `AWS EC2`
+
+ML model behind a FastAPI endpoint, containerized, deployed on EC2. Clean inference API with horizontal scaling.
+
+[![Repo](https://img.shields.io/badge/View_Repo-1a1a1a?style=flat-square&logo=github&logoColor=CC785C)](https://github.com/farhanrhine/insurance-premium-prediction-fastapi-docker-aws)
+
+</td>
+</tr>
+
+<tr>
+<td width="50%" valign="top">
+
+#### 🎓 AI Tutor Skill
+`Claude AI` `Prompt Engineering` `EdTech`
+
+Claude skill that adapts technical AI explanations to the user's actual understanding level. Built to teach, not just answer.
+
+[![Repo](https://img.shields.io/badge/View_Repo-1a1a1a?style=flat-square&logo=github&logoColor=CC785C)](https://github.com/farhanrhine/ai-tutor-skill)
+
+</td>
+<td width="50%" valign="top">
+
+#### 🕷️ Web Eater
+`Web Scraping` `Python` `Data Extraction`
+
+Scrapes and structures web content for downstream LLM consumption. Clean, simple, does what it says.
+
+[![Repo](https://img.shields.io/badge/View_Repo-1a1a1a?style=flat-square&logo=github&logoColor=CC785C)](https://github.com/farhanrhine/web-eater)
+
 </td>
 </tr>
 </table>
 
----
-
-## 🌐 Connect With Me
-
-<p align="center">
-  <a href="https://github.com/farhanrhine">
-    <img src="https://img.shields.io/badge/GitHub-100000?style=for-the-badge&logo=github&logoColor=white" alt="GitHub"/>
-  </a>
-  <a href="https://www.linkedin.com/in/farhanrhine">
-    <img src="https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white" alt="LinkedIn"/>
-  </a>
-  <a href="mailto:mohammadfarhanalam09@gmail.com">
-    <img src="https://img.shields.io/badge/Email-D14836?style=for-the-badge&logo=gmail&logoColor=white" alt="Email"/>
-  </a>
-  <a href="https://farhanrhine.github.io/">
-    <img src="https://img.shields.io/badge/Portfolio-6C63FF?style=for-the-badge&logo=google-chrome&logoColor=white" alt="Portfolio"/>
-  </a>
-</p>
+<br/>
 
 ---
 
-## 📫 Let's Collaborate!
+## `./stack --full`
 
-<p align="center">
-💡 <b>Open to opportunities in ML & AI Engineering, Agentic AI, and LLMOps, MLOps</b>
-</p>
+<div align="center">
 
-<p align="center">
-I'm passionate about building intelligent systems that solve real-world problems. If you're working on something exciting in AI/ML or need help with:
-</p>
+**Agentic AI & LLMs**
 
-<p align="center">
-✅ Multi-agent AI systems<br>
-✅ Production RAG pipelines<br>
-✅ MLOps & Cloud deployments<br>
-✅ LangChain/LangGraph applications<br>
-✅ Machine Learning & DEEP Learning application 
-</p>
+![LangChain](https://img.shields.io/badge/LangChain-1a1a1a?style=flat-square&logo=langchain&logoColor=CC785C)
+![LangGraph](https://img.shields.io/badge/LangGraph-1a1a1a?style=flat-square&logoColor=CC785C)
+![LangSmith](https://img.shields.io/badge/LangSmith-1a1a1a?style=flat-square&logoColor=CC785C)
+![RAG](https://img.shields.io/badge/RAG-1a1a1a?style=flat-square&logoColor=CC785C)
+![MCP](https://img.shields.io/badge/MCP-1a1a1a?style=flat-square&logo=anthropic&logoColor=CC785C)
+![Groq](https://img.shields.io/badge/Groq-1a1a1a?style=flat-square&logoColor=CC785C)
+![Ollama](https://img.shields.io/badge/Ollama-1a1a1a?style=flat-square&logoColor=CC785C)
+![HuggingFace](https://img.shields.io/badge/HuggingFace-1a1a1a?style=flat-square&logo=huggingface&logoColor=CC785C)
 
-<p align="center">
-<b>Let's connect and build something amazing together! 🚀</b>
-</p>
+**ML & Deep Learning**
+
+![PyTorch](https://img.shields.io/badge/PyTorch-1a1a1a?style=flat-square&logo=pytorch&logoColor=CC785C)
+![TensorFlow](https://img.shields.io/badge/TensorFlow-1a1a1a?style=flat-square&logo=tensorflow&logoColor=CC785C)
+![Scikit-Learn](https://img.shields.io/badge/Scikit--Learn-1a1a1a?style=flat-square&logo=scikit-learn&logoColor=CC785C)
+![OpenCV](https://img.shields.io/badge/OpenCV-1a1a1a?style=flat-square&logo=opencv&logoColor=CC785C)
+![Keras](https://img.shields.io/badge/Keras-1a1a1a?style=flat-square&logo=keras&logoColor=CC785C)
+
+**Backend & APIs**
+
+![FastAPI](https://img.shields.io/badge/FastAPI-1a1a1a?style=flat-square&logo=fastapi&logoColor=CC785C)
+![Flask](https://img.shields.io/badge/Flask-1a1a1a?style=flat-square&logo=flask&logoColor=CC785C)
+![Streamlit](https://img.shields.io/badge/Streamlit-1a1a1a?style=flat-square&logo=streamlit&logoColor=CC785C)
+![Pydantic](https://img.shields.io/badge/Pydantic-1a1a1a?style=flat-square&logo=pydantic&logoColor=CC785C)
+
+**MLOps & DevOps**
+
+![Docker](https://img.shields.io/badge/Docker-1a1a1a?style=flat-square&logo=docker&logoColor=CC785C)
+![Kubernetes](https://img.shields.io/badge/Kubernetes-1a1a1a?style=flat-square&logo=kubernetes&logoColor=CC785C)
+![Jenkins](https://img.shields.io/badge/Jenkins-1a1a1a?style=flat-square&logo=jenkins&logoColor=CC785C)
+![GitLab CI](https://img.shields.io/badge/GitLab_CI-1a1a1a?style=flat-square&logo=gitlab&logoColor=CC785C)
+![CircleCI](https://img.shields.io/badge/CircleCI-1a1a1a?style=flat-square&logo=circleci&logoColor=CC785C)
+![Argo CD](https://img.shields.io/badge/Argo_CD-1a1a1a?style=flat-square&logo=argo&logoColor=CC785C)
+![MLflow](https://img.shields.io/badge/MLflow-1a1a1a?style=flat-square&logo=mlflow&logoColor=CC785C)
+![DVC](https://img.shields.io/badge/DVC-1a1a1a?style=flat-square&logo=dvc&logoColor=CC785C)
+![SonarQube](https://img.shields.io/badge/SonarQube-1a1a1a?style=flat-square&logo=sonarqube&logoColor=CC785C)
+![Trivy](https://img.shields.io/badge/Trivy-1a1a1a?style=flat-square&logoColor=CC785C)
+
+**Cloud & Infrastructure**
+
+![GCP](https://img.shields.io/badge/GCP-1a1a1a?style=flat-square&logo=google-cloud&logoColor=CC785C)
+![AWS](https://img.shields.io/badge/AWS-1a1a1a?style=flat-square&logo=amazon-aws&logoColor=CC785C)
+![GKE](https://img.shields.io/badge/GKE-1a1a1a?style=flat-square&logo=google-cloud&logoColor=CC785C)
+![Cloud Run](https://img.shields.io/badge/Cloud_Run-1a1a1a?style=flat-square&logo=google-cloud&logoColor=CC785C)
+![AWS EC2](https://img.shields.io/badge/EC2-1a1a1a?style=flat-square&logo=amazon-ec2&logoColor=CC785C)
+![Amazon ECS](https://img.shields.io/badge/ECS-1a1a1a?style=flat-square&logo=amazon-ecs&logoColor=CC785C)
+
+**Vector Databases**
+
+![FAISS](https://img.shields.io/badge/FAISS-1a1a1a?style=flat-square&logoColor=CC785C)
+![ChromaDB](https://img.shields.io/badge/ChromaDB-1a1a1a?style=flat-square&logoColor=CC785C)
+![Pinecone](https://img.shields.io/badge/Pinecone-1a1a1a?style=flat-square&logoColor=CC785C)
+![AstraDB](https://img.shields.io/badge/AstraDB-1a1a1a?style=flat-square&logoColor=CC785C)
+
+</div>
+
+<br/>
 
 ---
 
-<p align="center">
-  <b>🧠 "AI is the tool, but the human touch is the master. I use it to amplify my work, not replace my thinking."</b>
-</p>
+## `./stats`
 
-<img src="https://user-images.githubusercontent.com/74038190/212284115-f47cd8ff-2ffb-4b04-b5bf-4d1c14c0247f.gif" width="100%">
+<div align="center">
 
+<img width="49%" src="https://github-readme-stats.vercel.app/api?username=farhanrhine&show_icons=true&theme=dark&hide_border=true&bg_color=0d0d0d&title_color=CC785C&icon_color=D4A574&text_color=e8e8e8&count_private=true" />
+<img width="49%" src="https://streak-stats.demolab.com?user=farhanrhine&theme=dark&hide_border=true&background=0d0d0d&ring=CC785C&fire=D4A574&currStreakLabel=CC785C" />
 
-<img width="100%" src="https://capsule-render.vercel.app/api?type=waving&color=6C63FF&height=120&section=footer"/>
+<img width="49%" src="https://github-readme-stats.vercel.app/api/top-langs/?username=farhanrhine&theme=dark&hide_border=true&bg_color=0d0d0d&title_color=CC785C&text_color=e8e8e8&layout=compact&langs_count=8" />
 
+</div>
 
+<br/>
+
+---
+
+## `./what-i-am-building-now`
+
+- **Spendly** — Flask expense tracker. Deliberately learning web dev (HTML, CSS, JS, Flask) so I can review every line. Not vibe-coding this one.
+- **MCP patterns** — Going deep on Model Context Protocol. Building local-first tools where privacy isn't optional.
+- **LangGraph internals** — Understanding StateGraph, checkpointing, and multi-agent coordination at the source level.
+
+<br/>
+
+---
+
+## `./certifications`
+
+| Issuer | Certification |
+|--------|--------------|
+| LangChain Academy | Project: Deep Agents |
+| LangChain Academy | Intro to LangChain |
+| DeepLearning.AI | Retrieval Augmented Generation |
+| Udemy | LLMOps And AIOps Bootcamp |
+| NPTEL | Deep Learning |
+| NPTEL | Intro to Machine Learning |
+| DeepLearning.AI | AI For Everyone |
+| IBM | Introduction to AI |
+| University of Michigan | Python for Everybody |
+
+<br/>
+
+---
+
+## `./connect`
+
+<div align="center">
+
+Open to **ML & AI Engineering**, **Agentic AI**, **LLMOps**, and **MLOps** roles.
+
+If you're building something real in AI — not a wrapper, an actual system — let's talk.
+
+[![GitHub](https://img.shields.io/badge/GitHub-farhanrhine-1a1a1a?style=for-the-badge&logo=github&logoColor=CC785C)](https://github.com/farhanrhine)
+[![LinkedIn](https://img.shields.io/badge/LinkedIn-farhanrhine-1a1a1a?style=for-the-badge&logo=linkedin&logoColor=CC785C)](https://linkedin.com/in/farhanrhine)
+[![Portfolio](https://img.shields.io/badge/Portfolio-farhanrhine.github.io-1a1a1a?style=for-the-badge&logo=google-chrome&logoColor=CC785C)](https://farhanrhine.github.io)
+[![Email](https://img.shields.io/badge/Email-reach_out-1a1a1a?style=for-the-badge&logo=gmail&logoColor=CC785C)](mailto:mohammadfarhanalam09@gmail.com)
+
+</div>
+
+<br/>
+
+---
+
+<div align="center">
+
+<sub>
+Built to ship. Not to impress.
+</sub>
+
+<img src="https://capsule-render.vercel.app/api?type=rect&color=CC785C,D4A574,1a1a1a&height=2&section=footer&reversal=false" width="100%"/>
+
+</div>
