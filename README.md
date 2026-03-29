@@ -14,7 +14,7 @@
 
 **ML & AI Engineer** &nbsp;|&nbsp; Agentic AI Builder &nbsp;|&nbsp; Cloud-Native Systems
 
-<img src="https://readme-typing-svg.demolab.com?font=JetBrains+Mono&weight=500&size=16&duration=3000&pause=800&color=CC785C&center=true&vCenter=true&width=600&lines=Building+production-grade+agentic+systems;RAG+pipelines+that+actually+work+in+prod;LangGraph+%7C+LangChain+%7C+MCP+%7C+LLMOps;22%2B+projects+shipped+across+GCP+%26+AWS" />
+<img src="https://readme-typing-svg.demolab.com?font=JetBrains+Mono&weight=500&size=16&duration=3000&pause=800&color=CC785C&center=true&vCenter=true&width=600&lines=Building+production-grade+agentic+systems;RAG+pipelines+that+actually+work+in+prod;LangGraph+%7C+LangChain+%7C+MCP+%7C+LLMOps;10%2B+projects+shipped+across+GCP+%26+AWS" />
 
 [![GitHub](https://img.shields.io/badge/GitHub-farhanrhine-1a1a1a?style=flat-square&logo=github&logoColor=CC785C)](https://github.com/farhanrhine)
 [![LinkedIn](https://img.shields.io/badge/LinkedIn-farhanrhine-1a1a1a?style=flat-square&logo=linkedin&logoColor=CC785C)](https://linkedin.com/in/farhanrhine)
