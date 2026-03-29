@@ -35,7 +35,7 @@ farhan = {
     "focus"       : "Production-grade Agentic AI Systems",
     "approach"    : "understand every line — not vibe coding",
     "deployed"    : "10+ projects across GCP, AWS & Kubernetes",
-    "currently"   : ["building Spendly", "deep-diving MCP", "LangGraph patterns"],
+    "currently"   : ["Spendly (Claude Code, no vibe-coding)", "agents from scratch → LangGraph internals", "DSA & system design at scale"],
     "belief"      : "The gap between notebook and production is where real engineering lives.",
 }
 ```
@@ -378,17 +378,12 @@ Scrapes and structures web content for downstream LLM consumption. Clean, simple
 
 ## `./what-i-am-building-now`
 
-- **Spendly** — Flask expense tracker. Learning Claude Code to integrate AI agents
-  as tools in my workflow — but reviewing every line. Not vibe-coding this one.
-- **AI Agents from scratch** — Before frameworks, understand the patterns.
-  Building agents manually so that when LangChain does something, I know *why*.
-- **LangGraph & DeepAgent internals** — StateGraph, checkpointing, multi-agent
-  coordination. Going to the source, not just the docs.
-- **DSA & System Design** — Learning to think at scale. How does a system 
-  survive a million users? Working through the fundamentals so the answer 
-  isn't just "add more servers."
-- **ML & DL side projects** — Because data and models are where I started,
-  and I'm not leaving that behind.
+- **Spendly** — Flask expense tracker. Using Claude Code but reviewing every line.
+  Not vibe-coding this one.
+- **Agents from scratch → LangGraph internals** — Understanding the patterns before
+  the frameworks. StateGraph, checkpointing, multi-agent coordination at source level.
+- **DSA & System Design** — Learning to think at scale. How does a system survive
+  a million users? Working through the fundamentals so the answer isn't just "add more servers."
 <br/>
 
 ---
