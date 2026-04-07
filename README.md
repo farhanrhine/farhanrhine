@@ -14,12 +14,14 @@
 
 **ML & AI Engineer** &nbsp;|&nbsp; Agentic AI Builder &nbsp;|&nbsp; Cloud-Native Systems
 
-<img src="https://readme-typing-svg.demolab.com?font=JetBrains+Mono&weight=500&size=16&duration=3000&pause=800&color=CC785C&center=true&vCenter=true&width=600&lines=Building+production-grade+agentic+systems;RAG+pipelines+that+actually+work+in+prod;LangGraph+%7C+LangChain+%7C+MCP+%7C+LLMOps;10%2B+projects+shipped+across+GCP+%26+AWS" />
+<img src="https://readme-typing-svg.demolab.com?font=JetBrains+Mono&weight=500&size=16&duration=3000&pause=800&color=CC785C&center=true&vCenter=true&width=600&lines=Building+production-grade+agentic+AI+systems.;Shipping+RAG+pipelines+%2B+infra+that+survives+real+users.;FastAPI+%7C+K8s+%7C+MLOps+%7C+LLMOps" />
 
 [![GitHub](https://img.shields.io/badge/GitHub-farhanrhine-F3F1E7?style=flat-square&logo=github&logoColor=CC785C)](https://github.com/farhanrhine)
 [![LinkedIn](https://img.shields.io/badge/LinkedIn-farhanrhine-F3F1E7?style=flat-square&logo=linkedin&logoColor=CC785C)](https://linkedin.com/in/farhanrhine)
 [![Portfolio](https://img.shields.io/badge/Portfolio-farhanrhine.github.io-F3F1E7?style=flat-square&logo=google-chrome&logoColor=CC785C)](https://farhanrhine.github.io)
 [![Email](https://img.shields.io/badge/Email-mohammadfarhanalam09-F3F1E7?style=flat-square&logo=gmail&logoColor=CC785C)](mailto:mohammadfarhanalam09@gmail.com)
+
+<a href="https://gitroll.io/profile/ugfCZaiedMiM8qzqOwkCRM6KDDyo1" target="_blank"><img src="https://gitroll.io/api/badges/profiles/v1/ugfCZaiedMiM8qzqOwkCRM6KDDyo1?theme=darkEmerald" alt="GitRoll Profile Badge"/></a>
 
 <img src="https://capsule-render.vercel.app/api?type=rect&color=CC785C,D4A574&height=2&section=header&reversal=false" width="100%"/>
 
@@ -40,7 +42,7 @@ farhan = {
 }
 ```
 
-I don't chase demos. I build systems that run in prod — with CI/CD, container security, observability, and infra that survives real usage. Every project is an attempt to close the gap between "it works on my machine" and "it works at 3am on Cloud Run."
+I don't chase demos. I build systems that run in prod — with CI/CD, container security, observability, and infra that survives real usage. Every project is an attempt to close the gap between "ideas" and "systems".
 
 Currently a final-year CS student at Chandigarh University, ex-Infosys Springboard 5.0 AI/ML intern, and actively seeking ML & AI engineering opportunities.
 
