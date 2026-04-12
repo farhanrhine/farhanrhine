@@ -16,10 +16,10 @@
 
 <img src="https://readme-typing-svg.demolab.com?font=JetBrains+Mono&weight=500&size=16&duration=3000&pause=800&color=CC785C&center=true&vCenter=true&width=600&lines=Building+production-grade+agentic+AI+systems.;Shipping+RAG+pipelines+%2B+infra+that+survives+real+users.;FastAPI+%7C+K8s+%7C+MLOps+%7C+LLMOps" />
 
-[![GitHub](https://img.shields.io/badge/GitHub-farhanrhine-F3F1E7?style=flat-square&logo=github&logoColor=CC785C)](https://github.com/farhanrhine)
-[![LinkedIn](https://img.shields.io/badge/LinkedIn-farhanrhine-F3F1E7?style=flat-square&logo=linkedin&logoColor=CC785C)](https://linkedin.com/in/farhanrhine)
-[![Portfolio](https://img.shields.io/badge/Portfolio-farhanrhine.github.io-F3F1E7?style=flat-square&logo=google-chrome&logoColor=CC785C)](https://farhanrhine.github.io)
-[![Email](https://img.shields.io/badge/Email-mohammadfarhanalam09-F3F1E7?style=flat-square&logo=gmail&logoColor=CC785C)](mailto:mohammadfarhanalam09@gmail.com)
+[![GitHub](https://img.shields.io/badge/GitHub-farhanrhine-CC785C?style=flat-square&logo=github&logoColor=white&labelColor=161B22)](https://github.com/farhanrhine)
+[![LinkedIn](https://img.shields.io/badge/LinkedIn-farhanrhine-CC785C?style=flat-square&logo=linkedin&logoColor=white&labelColor=0A66C2)](https://linkedin.com/in/farhanrhine)
+[![Portfolio](https://img.shields.io/badge/Portfolio-farhanrhine.github.io-CC785C?style=flat-square&logo=google-chrome&logoColor=white&labelColor=161B22)](https://farhanrhine.github.io)
+[![Email](https://img.shields.io/badge/Email-mohammadfarhanalam09-CC785C?style=flat-square&logo=gmail&logoColor=white&labelColor=161B22)](mailto:mohammadfarhanalam09@gmail.com)
 
 <a href="https://gitroll.io/profile/ugfCZaiedMiM8qzqOwkCRM6KDDyo1" target="_blank"><img src="https://gitroll.io/api/badges/profiles/v1/ugfCZaiedMiM8qzqOwkCRM6KDDyo1?theme=darkEmerald" alt="GitRoll Profile Badge"/></a>
 
@@ -63,7 +63,7 @@ Currently a final-year CS student at Chandigarh University, ex-Infosys Springboa
 
 Custom StateGraph architecture with real-time streaming. Jenkins + SonarQube CI/CD. One of the first things I shipped end-to-end on GCP.
 
-[![Repo](https://img.shields.io/badge/View_Repo-F3F1E7?style=flat-square&logo=github&logoColor=CC785C)](https://github.com/farhanrhine/multi-ai-agent-gcp)
+[![Repo](https://img.shields.io/badge/View_Repo-161B22?style=flat-square&logo=github&logoColor=CC785C)](https://github.com/farhanrhine/multi-ai-agent-gcp)
 
 </td>
 <td width="50%" valign="top">
@@ -73,7 +73,7 @@ Custom StateGraph architecture with real-time streaming. Jenkins + SonarQube CI/
 
 RAG over GALE Encyclopedia with source citations. Container security via Trivy. Healthcare use case — accuracy matters.
 
-[![Repo](https://img.shields.io/badge/View_Repo-F3F1E7?style=flat-square&logo=github&logoColor=CC785C)](https://github.com/farhanrhine/MedAssist-AI)
+[![Repo](https://img.shields.io/badge/View_Repo-161B22?style=flat-square&logo=github&logoColor=CC785C)](https://github.com/farhanrhine/MedAssist-AI)
 
 </td>
 </tr>
@@ -86,7 +86,7 @@ RAG over GALE Encyclopedia with source citations. Container security via Trivy. 
 
 AI-powered face identification + Q&A engine. Nginx Ingress, Let's Encrypt TLS, full K8s deployment.
 
-[![Repo](https://img.shields.io/badge/View_Repo-F3F1E7?style=flat-square&logo=github&logoColor=CC785C)](https://github.com/farhanrhine/face-detect-ai-agent-gcp)
+[![Repo](https://img.shields.io/badge/View_Repo-161B22?style=flat-square&logo=github&logoColor=CC785C)](https://github.com/farhanrhine/face-detect-ai-agent-gcp)
 
 </td>
 <td width="50%" valign="top">
@@ -96,7 +96,7 @@ AI-powered face identification + Q&A engine. Nginx Ingress, Let's Encrypt TLS, f
 
 Teach-then-test workflow. Contextual quiz generation from chat history. Single-file architecture, GitOps deployment via Argo CD.
 
-[![Repo](https://img.shields.io/badge/View_Repo-F3F1E7?style=flat-square&logo=github&logoColor=CC785C)](https://github.com/farhanrhine/recall-ai-agent-gcp)
+[![Repo](https://img.shields.io/badge/View_Repo-161B22?style=flat-square&logo=github&logoColor=CC785C)](https://github.com/farhanrhine/recall-ai-agent-gcp)
 
 </td>
 </tr>
@@ -109,7 +109,7 @@ Teach-then-test workflow. Contextual quiz generation from chat history. Single-f
 
 Agentic composition with custom additive synthesis engine — ADSR envelopes, harmonics, the works. GitLab CI/CD.
 
-[![Repo](https://img.shields.io/badge/View_Repo-F3F1E7?style=flat-square&logo=github&logoColor=CC785C)](https://github.com/farhanrhine/music-composer-ai-agent-gcp)
+[![Repo](https://img.shields.io/badge/View_Repo-161B22?style=flat-square&logo=github&logoColor=CC785C)](https://github.com/farhanrhine/music-composer-ai-agent-gcp)
 
 </td>
 <td width="50%" valign="top">
@@ -119,7 +119,7 @@ Agentic composition with custom additive synthesis engine — ADSR envelopes, ha
 
 Voice in, narrated itinerary out, interactive route map rendered. ELK stack monitoring on Kubernetes.
 
-[![Repo](https://img.shields.io/badge/View_Repo-F3F1E7?style=flat-square&logo=github&logoColor=CC785C)](https://github.com/farhanrhine/travel-planner-ai-agent-gcp)
+[![Repo](https://img.shields.io/badge/View_Repo-161B22?style=flat-square&logo=github&logoColor=CC785C)](https://github.com/farhanrhine/travel-planner-ai-agent-gcp)
 
 </td>
 </tr>
@@ -132,7 +132,7 @@ Voice in, narrated itinerary out, interactive route map rendered. ELK stack moni
 
 Planning + subagent spawning + filesystem backend. Complex autonomous research tasks — not just a chatbot wrapper.
 
-[![Repo](https://img.shields.io/badge/View_Repo-F3F1E7?style=flat-square&logo=github&logoColor=CC785C)](https://github.com/farhanrhine/research-deepagent)
+[![Repo](https://img.shields.io/badge/View_Repo-161B22?style=flat-square&logo=github&logoColor=CC785C)](https://github.com/farhanrhine/research-deepagent)
 
 </td>
 <td width="50%" valign="top">
@@ -142,7 +142,7 @@ Planning + subagent spawning + filesystem backend. Complex autonomous research t
 
 Dual-mode: personal shopper + support assistant. Routes between 4 tools, enforces return policies from CSV with zero hallucinations. LangSmith observability.
 
-[![Repo](https://img.shields.io/badge/View_Repo-F3F1E7?style=flat-square&logo=github&logoColor=CC785C)](https://github.com/farhanrhine/Retail-AI-Agent)
+[![Repo](https://img.shields.io/badge/View_Repo-161B22?style=flat-square&logo=github&logoColor=CC785C)](https://github.com/farhanrhine/Retail-AI-Agent)
 
 </td>
 </tr>
@@ -155,7 +155,7 @@ Dual-mode: personal shopper + support assistant. Routes between 4 tools, enforce
 
 Autonomous customer support over WhatsApp + Telegram. Custom tool-invocation layer, smart escalation logic for edge cases that need humans.
 
-[![Repo](https://img.shields.io/badge/View_Repo-F3F1E7?style=flat-square&logo=github&logoColor=CC785C)](https://github.com/farhanrhine/OpenClaw-Retail-Support-Agent)
+[![Repo](https://img.shields.io/badge/View_Repo-161B22?style=flat-square&logo=github&logoColor=CC785C)](https://github.com/farhanrhine/OpenClaw-Retail-Support-Agent)
 
 </td>
 <td width="50%" valign="top">
@@ -165,7 +165,7 @@ Autonomous customer support over WhatsApp + Telegram. Custom tool-invocation lay
 
 Hybrid deep learning — NCF + content-based models fused via learnable attention mechanism. Predicts destination preferences dynamically.
 
-[![Repo](https://img.shields.io/badge/View_Repo-F3F1E7?style=flat-square&logo=github&logoColor=CC785C)](https://github.com/farhanrhine/Deep_Learning-Tourism_Recommendation)
+[![Repo](https://img.shields.io/badge/View_Repo-161B22?style=flat-square&logo=github&logoColor=CC785C)](https://github.com/farhanrhine/Deep_Learning-Tourism_Recommendation)
 
 </td>
 </tr>
@@ -178,7 +178,7 @@ Hybrid deep learning — NCF + content-based models fused via learnable attentio
 
 Statistical language model over Quranic text. Explores linguistic patterns in classical Arabic — this one is personal.
 
-[![Repo](https://img.shields.io/badge/View_Repo-F3F1E7?style=flat-square&logo=github&logoColor=CC785C)](https://github.com/farhanrhine/quran-bigram-model)
+[![Repo](https://img.shields.io/badge/View_Repo-161B22?style=flat-square&logo=github&logoColor=CC785C)](https://github.com/farhanrhine/quran-bigram-model)
 
 </td>
 <td width="50%" valign="top">
@@ -188,7 +188,7 @@ Statistical language model over Quranic text. Explores linguistic patterns in cl
 
 Specialized agents collaborating — venue, catering, budget, timeline. Good testbed for inter-agent coordination patterns.
 
-[![Repo](https://img.shields.io/badge/View_Repo-F3F1E7?style=flat-square&logo=github&logoColor=CC785C)](https://github.com/farhanrhine/Multi-Agent-Wedding-Planner)
+[![Repo](https://img.shields.io/badge/View_Repo-161B22?style=flat-square&logo=github&logoColor=CC785C)](https://github.com/farhanrhine/Multi-Agent-Wedding-Planner)
 
 </td>
 </tr>
@@ -201,7 +201,7 @@ Specialized agents collaborating — venue, catering, budget, timeline. Good tes
 
 End-to-end ML on IoT electrical data — power computation, pattern identification, high-usage anomaly detection.
 
-[![Repo](https://img.shields.io/badge/View_Repo-F3F1E7?style=flat-square&logo=github&logoColor=CC785C)](https://github.com/farhanrhine/IoT-Power-Consumption-Analysis)
+[![Repo](https://img.shields.io/badge/View_Repo-161B22?style=flat-square&logo=github&logoColor=CC785C)](https://github.com/farhanrhine/IoT-Power-Consumption-Analysis)
 
 </td>
 <td width="50%" valign="top">
@@ -211,7 +211,7 @@ End-to-end ML on IoT electrical data — power computation, pattern identificati
 
 Natural language product search and comparison. Full CI/CD, cloud-native architecture. Production deployment.
 
-[![Repo](https://img.shields.io/badge/View_Repo-F3F1E7?style=flat-square&logo=github&logoColor=CC785C)](https://github.com/farhanrhine/flipkart-shopping-agent-gcp)
+[![Repo](https://img.shields.io/badge/View_Repo-161B22?style=flat-square&logo=github&logoColor=CC785C)](https://github.com/farhanrhine/flipkart-shopping-agent-gcp)
 
 </td>
 </tr>
@@ -232,7 +232,7 @@ Natural language product search and comparison. Full CI/CD, cloud-native archite
 
 Production RAG on GKE. ChromaDB vector store, CI/CD pipeline, the whole stack.
 
-[![Repo](https://img.shields.io/badge/View_Repo-F3F1E7?style=flat-square&logo=github&logoColor=CC785C)](https://github.com/farhanrhine/ai-anime-recommender-rag)
+[![Repo](https://img.shields.io/badge/View_Repo-161B22?style=flat-square&logo=github&logoColor=CC785C)](https://github.com/farhanrhine/ai-anime-recommender-rag)
 
 </td>
 <td width="50%" valign="top">
@@ -242,7 +242,7 @@ Production RAG on GKE. ChromaDB vector store, CI/CD pipeline, the whole stack.
 
 End-to-end MLOps pipeline. Data versioning with DVC, experiment tracking with MLflow, reproducible from day one.
 
-[![Repo](https://img.shields.io/badge/View_Repo-F3F1E7?style=flat-square&logo=github&logoColor=CC785C)](https://github.com/farhanrhine/flight-satisfaction-mlops)
+[![Repo](https://img.shields.io/badge/View_Repo-161B22?style=flat-square&logo=github&logoColor=CC785C)](https://github.com/farhanrhine/flight-satisfaction-mlops)
 
 </td>
 </tr>
@@ -255,7 +255,7 @@ End-to-end MLOps pipeline. Data versioning with DVC, experiment tracking with ML
 
 Analyze Paytm UPI transactions in natural language. 100% local processing, strict schema validation, zero data leaves your machine.
 
-[![Repo](https://img.shields.io/badge/View_Repo-F3F1E7?style=flat-square&logo=github&logoColor=CC785C)](https://github.com/farhanrhine/paytm-local-mcp-server)
+[![Repo](https://img.shields.io/badge/View_Repo-161B22?style=flat-square&logo=github&logoColor=CC785C)](https://github.com/farhanrhine/paytm-local-mcp-server)
 
 </td>
 <td width="50%" valign="top">
@@ -265,7 +265,7 @@ Analyze Paytm UPI transactions in natural language. 100% local processing, stric
 
 ML model behind a FastAPI endpoint, containerized, deployed on EC2. Clean inference API with horizontal scaling.
 
-[![Repo](https://img.shields.io/badge/View_Repo-F3F1E7?style=flat-square&logo=github&logoColor=CC785C)](https://github.com/farhanrhine/insurance-premium-prediction-fastapi-docker-aws)
+[![Repo](https://img.shields.io/badge/View_Repo-161B22?style=flat-square&logo=github&logoColor=CC785C)](https://github.com/farhanrhine/insurance-premium-prediction-fastapi-docker-aws)
 
 </td>
 </tr>
@@ -278,7 +278,7 @@ ML model behind a FastAPI endpoint, containerized, deployed on EC2. Clean infere
 
 Claude skill that adapts technical AI explanations to the user's actual understanding level. Built to teach, not just answer.
 
-[![Repo](https://img.shields.io/badge/View_Repo-F3F1E7?style=flat-square&logo=github&logoColor=CC785C)](https://github.com/farhanrhine/ai-tutor-skill)
+[![Repo](https://img.shields.io/badge/View_Repo-161B22?style=flat-square&logo=github&logoColor=CC785C)](https://github.com/farhanrhine/ai-tutor-skill)
 
 </td>
 <td width="50%" valign="top">
@@ -288,7 +288,7 @@ Claude skill that adapts technical AI explanations to the user's actual understa
 
 Scrapes and structures web content for downstream LLM consumption. Clean, simple, does what it says.
 
-[![Repo](https://img.shields.io/badge/View_Repo-F3F1E7?style=flat-square&logo=github&logoColor=CC785C)](https://github.com/farhanrhine/web-eater)
+[![Repo](https://img.shields.io/badge/View_Repo-161B22?style=flat-square&logo=github&logoColor=CC785C)](https://github.com/farhanrhine/web-eater)
 
 </td>
 </tr>
@@ -304,58 +304,58 @@ Scrapes and structures web content for downstream LLM consumption. Clean, simple
 
 **Agentic AI & LLMs**
 
-![LangChain](https://img.shields.io/badge/LangChain-F3F1E7?style=flat-square&logo=langchain&logoColor=CC785C)
-![LangGraph](https://img.shields.io/badge/LangGraph-F3F1E7?style=flat-square&logoColor=CC785C)
-![LangSmith](https://img.shields.io/badge/LangSmith-F3F1E7?style=flat-square&logoColor=CC785C)
-![RAG](https://img.shields.io/badge/RAG-F3F1E7?style=flat-square&logoColor=CC785C)
-![MCP](https://img.shields.io/badge/MCP-F3F1E7?style=flat-square&logo=anthropic&logoColor=CC785C)
-![Groq](https://img.shields.io/badge/Groq-F3F1E7?style=flat-square&logoColor=CC785C)
-![Ollama](https://img.shields.io/badge/Ollama-F3F1E7?style=flat-square&logoColor=CC785C)
-![HuggingFace](https://img.shields.io/badge/HuggingFace-F3F1E7?style=flat-square&logo=huggingface&logoColor=CC785C)
+![LangChain](https://img.shields.io/badge/LangChain-161B22?style=flat-square&logo=langchain&logoColor=CC785C)
+![LangGraph](https://img.shields.io/badge/LangGraph-161B22?style=flat-square&logoColor=CC785C)
+![LangSmith](https://img.shields.io/badge/LangSmith-161B22?style=flat-square&logoColor=CC785C)
+![RAG](https://img.shields.io/badge/RAG-161B22?style=flat-square&logoColor=CC785C)
+![MCP](https://img.shields.io/badge/MCP-161B22?style=flat-square&logo=anthropic&logoColor=CC785C)
+![Groq](https://img.shields.io/badge/Groq-161B22?style=flat-square&logoColor=CC785C)
+![Ollama](https://img.shields.io/badge/Ollama-161B22?style=flat-square&logoColor=CC785C)
+![HuggingFace](https://img.shields.io/badge/HuggingFace-161B22?style=flat-square&logo=huggingface&logoColor=CC785C)
 
 **ML & Deep Learning**
 
-![PyTorch](https://img.shields.io/badge/PyTorch-F3F1E7?style=flat-square&logo=pytorch&logoColor=CC785C)
-![TensorFlow](https://img.shields.io/badge/TensorFlow-F3F1E7?style=flat-square&logo=tensorflow&logoColor=CC785C)
-![Scikit-Learn](https://img.shields.io/badge/Scikit--Learn-F3F1E7?style=flat-square&logo=scikit-learn&logoColor=CC785C)
-![OpenCV](https://img.shields.io/badge/OpenCV-F3F1E7?style=flat-square&logo=opencv&logoColor=CC785C)
-![Keras](https://img.shields.io/badge/Keras-F3F1E7?style=flat-square&logo=keras&logoColor=CC785C)
+![PyTorch](https://img.shields.io/badge/PyTorch-161B22?style=flat-square&logo=pytorch&logoColor=CC785C)
+![TensorFlow](https://img.shields.io/badge/TensorFlow-161B22?style=flat-square&logo=tensorflow&logoColor=CC785C)
+![Scikit-Learn](https://img.shields.io/badge/Scikit--Learn-161B22?style=flat-square&logo=scikit-learn&logoColor=CC785C)
+![OpenCV](https://img.shields.io/badge/OpenCV-161B22?style=flat-square&logo=opencv&logoColor=CC785C)
+![Keras](https://img.shields.io/badge/Keras-161B22?style=flat-square&logo=keras&logoColor=CC785C)
 
 **Backend & APIs**
 
-![FastAPI](https://img.shields.io/badge/FastAPI-F3F1E7?style=flat-square&logo=fastapi&logoColor=CC785C)
-![Flask](https://img.shields.io/badge/Flask-F3F1E7?style=flat-square&logo=flask&logoColor=CC785C)
-![Streamlit](https://img.shields.io/badge/Streamlit-F3F1E7?style=flat-square&logo=streamlit&logoColor=CC785C)
-![Pydantic](https://img.shields.io/badge/Pydantic-F3F1E7?style=flat-square&logo=pydantic&logoColor=CC785C)
+![FastAPI](https://img.shields.io/badge/FastAPI-161B22?style=flat-square&logo=fastapi&logoColor=CC785C)
+![Flask](https://img.shields.io/badge/Flask-161B22?style=flat-square&logo=flask&logoColor=CC785C)
+![Streamlit](https://img.shields.io/badge/Streamlit-161B22?style=flat-square&logo=streamlit&logoColor=CC785C)
+![Pydantic](https://img.shields.io/badge/Pydantic-161B22?style=flat-square&logo=pydantic&logoColor=CC785C)
 
 **MLOps & DevOps**
 
-![Docker](https://img.shields.io/badge/Docker-F3F1E7?style=flat-square&logo=docker&logoColor=CC785C)
-![Kubernetes](https://img.shields.io/badge/Kubernetes-F3F1E7?style=flat-square&logo=kubernetes&logoColor=CC785C)
-![Jenkins](https://img.shields.io/badge/Jenkins-F3F1E7?style=flat-square&logo=jenkins&logoColor=CC785C)
-![GitLab CI](https://img.shields.io/badge/GitLab_CI-F3F1E7?style=flat-square&logo=gitlab&logoColor=CC785C)
-![CircleCI](https://img.shields.io/badge/CircleCI-F3F1E7?style=flat-square&logo=circleci&logoColor=CC785C)
-![Argo CD](https://img.shields.io/badge/Argo_CD-F3F1E7?style=flat-square&logo=argo&logoColor=CC785C)
-![MLflow](https://img.shields.io/badge/MLflow-F3F1E7?style=flat-square&logo=mlflow&logoColor=CC785C)
-![DVC](https://img.shields.io/badge/DVC-F3F1E7?style=flat-square&logo=dvc&logoColor=CC785C)
-![SonarQube](https://img.shields.io/badge/SonarQube-F3F1E7?style=flat-square&logo=sonarqube&logoColor=CC785C)
-![Trivy](https://img.shields.io/badge/Trivy-F3F1E7?style=flat-square&logoColor=CC785C)
+![Docker](https://img.shields.io/badge/Docker-161B22?style=flat-square&logo=docker&logoColor=CC785C)
+![Kubernetes](https://img.shields.io/badge/Kubernetes-161B22?style=flat-square&logo=kubernetes&logoColor=CC785C)
+![Jenkins](https://img.shields.io/badge/Jenkins-161B22?style=flat-square&logo=jenkins&logoColor=CC785C)
+![GitLab CI](https://img.shields.io/badge/GitLab_CI-161B22?style=flat-square&logo=gitlab&logoColor=CC785C)
+![CircleCI](https://img.shields.io/badge/CircleCI-161B22?style=flat-square&logo=circleci&logoColor=CC785C)
+![Argo CD](https://img.shields.io/badge/Argo_CD-161B22?style=flat-square&logo=argo&logoColor=CC785C)
+![MLflow](https://img.shields.io/badge/MLflow-161B22?style=flat-square&logo=mlflow&logoColor=CC785C)
+![DVC](https://img.shields.io/badge/DVC-161B22?style=flat-square&logo=dvc&logoColor=CC785C)
+![SonarQube](https://img.shields.io/badge/SonarQube-161B22?style=flat-square&logo=sonarqube&logoColor=CC785C)
+![Trivy](https://img.shields.io/badge/Trivy-161B22?style=flat-square&logoColor=CC785C)
 
 **Cloud & Infrastructure**
 
-![GCP](https://img.shields.io/badge/GCP-F3F1E7?style=flat-square&logo=google-cloud&logoColor=CC785C)
-![AWS](https://img.shields.io/badge/AWS-F3F1E7?style=flat-square&logo=amazon-aws&logoColor=CC785C)
-![GKE](https://img.shields.io/badge/GKE-F3F1E7?style=flat-square&logo=google-cloud&logoColor=CC785C)
-![Cloud Run](https://img.shields.io/badge/Cloud_Run-F3F1E7?style=flat-square&logo=google-cloud&logoColor=CC785C)
-![AWS EC2](https://img.shields.io/badge/EC2-F3F1E7?style=flat-square&logo=amazon-ec2&logoColor=CC785C)
-![Amazon ECS](https://img.shields.io/badge/ECS-F3F1E7?style=flat-square&logo=amazon-ecs&logoColor=CC785C)
+![GCP](https://img.shields.io/badge/GCP-161B22?style=flat-square&logo=google-cloud&logoColor=CC785C)
+![AWS](https://img.shields.io/badge/AWS-161B22?style=flat-square&logo=amazon-aws&logoColor=CC785C)
+![GKE](https://img.shields.io/badge/GKE-161B22?style=flat-square&logo=google-cloud&logoColor=CC785C)
+![Cloud Run](https://img.shields.io/badge/Cloud_Run-161B22?style=flat-square&logo=google-cloud&logoColor=CC785C)
+![AWS EC2](https://img.shields.io/badge/EC2-161B22?style=flat-square&logo=amazon-ec2&logoColor=CC785C)
+![Amazon ECS](https://img.shields.io/badge/ECS-161B22?style=flat-square&logo=amazon-ecs&logoColor=CC785C)
 
 **Vector Databases**
 
-![FAISS](https://img.shields.io/badge/FAISS-F3F1E7?style=flat-square&logoColor=CC785C)
-![ChromaDB](https://img.shields.io/badge/ChromaDB-F3F1E7?style=flat-square&logoColor=CC785C)
-![Pinecone](https://img.shields.io/badge/Pinecone-F3F1E7?style=flat-square&logoColor=CC785C)
-![AstraDB](https://img.shields.io/badge/AstraDB-F3F1E7?style=flat-square&logoColor=CC785C)
+![FAISS](https://img.shields.io/badge/FAISS-161B22?style=flat-square&logoColor=CC785C)
+![ChromaDB](https://img.shields.io/badge/ChromaDB-161B22?style=flat-square&logoColor=CC785C)
+![Pinecone](https://img.shields.io/badge/Pinecone-161B22?style=flat-square&logoColor=CC785C)
+![AstraDB](https://img.shields.io/badge/AstraDB-161B22?style=flat-square&logoColor=CC785C)
 
 </div>
 
@@ -367,26 +367,12 @@ Scrapes and structures web content for downstream LLM consumption. Clean, simple
 
 <div align="center">
 
-<img width="49%" src="https://github-readme-stats.vercel.app/api?username=farhanrhine&show_icons=true&hide_border=true&bg_color=F3F1E7&title_color=CC785C&icon_color=D4A574&text_color=4A443D&count_private=true" />
-<img width="49%" src="https://streak-stats.demolab.com?user=farhanrhine&hide_border=true&background=F3F1E7&ring=CC785C&fire=D4A574&currStreakLabel=CC785C&sideLabels=D4A574&dates=8A8374" />
+<img width="49%" src="https://github-readme-stats.vercel.app/api?username=farhanrhine&show_icons=true&hide_border=true&bg_color=0D1117&title_color=CC785C&icon_color=D4A574&text_color=C9D1D9&count_private=true" />
+<img width="49%" src="https://streak-stats.demolab.com?user=farhanrhine&hide_border=true&background=0D1117&ring=CC785C&fire=D4A574&currStreakLabel=CC785C&sideLabels=D4A574&dates=8A8374&stroke=CC785C" />
 
-<img width="49%" src="https://github-readme-stats.vercel.app/api/top-langs/?username=farhanrhine&hide_border=true&bg_color=F3F1E7&title_color=CC785C&text_color=4A443D&layout=compact&langs_count=8" />
+<img width="49%" src="https://github-readme-stats.vercel.app/api/top-langs/?username=farhanrhine&hide_border=true&bg_color=0D1117&title_color=CC785C&text_color=C9D1D9&layout=compact&langs_count=8" />
 
 </div>
-
-<br/>
-
----
-
-## `./what-i-am-building-now`
-
-- **Spendly** — Flask expense tracker. Using Claude Code but reviewing every line.
-  Not vibe-coding this one.
-- **Agents from scratch → LangGraph internals** — Understanding the patterns before
-  the frameworks. StateGraph, checkpointing, multi-agent coordination at source level.
-- **DSA & System Design** — Learning to think at scale. How does a system survive
-  a million users? Working through the fundamentals so the answer isn't just "add more servers."
-<br/>
 
 ---
 
@@ -416,10 +402,10 @@ Open to **ML & AI Engineering**, **Agentic AI**, **LLMOps**, and **MLOps** roles
 
 If you're building something real in AI — not a wrapper, an actual system — let's talk.
 
-[![GitHub](https://img.shields.io/badge/GitHub-farhanrhine-F3F1E7?style=for-the-badge&logo=github&logoColor=CC785C)](https://github.com/farhanrhine)
-[![LinkedIn](https://img.shields.io/badge/LinkedIn-farhanrhine-F3F1E7?style=for-the-badge&logo=linkedin&logoColor=CC785C)](https://linkedin.com/in/farhanrhine)
-[![Portfolio](https://img.shields.io/badge/Portfolio-farhanrhine.github.io-F3F1E7?style=for-the-badge&logo=google-chrome&logoColor=CC785C)](https://farhanrhine.github.io)
-[![Email](https://img.shields.io/badge/Email-reach_out-F3F1E7?style=for-the-badge&logo=gmail&logoColor=CC785C)](mailto:mohammadfarhanalam09@gmail.com)
+[![GitHub](https://img.shields.io/badge/GitHub-farhanrhine-CC785C?style=for-the-badge&logo=github&logoColor=white&labelColor=161B22)](https://github.com/farhanrhine)
+[![LinkedIn](https://img.shields.io/badge/LinkedIn-farhanrhine-CC785C?style=for-the-badge&logo=linkedin&logoColor=white&labelColor=0A66C2)](https://linkedin.com/in/farhanrhine)
+[![Portfolio](https://img.shields.io/badge/Portfolio-farhanrhine.github.io-CC785C?style=for-the-badge&logo=google-chrome&logoColor=white&labelColor=161B22)](https://farhanrhine.github.io)
+[![Email](https://img.shields.io/badge/Email-reach_out-CC785C?style=for-the-badge&logo=gmail&logoColor=white&labelColor=161B22)](mailto:mohammadfarhanalam09@gmail.com)
 
 </div>
 
@@ -430,7 +416,7 @@ If you're building something real in AI — not a wrapper, an actual system — 
 <div align="center">
 
 <sub>
-Built to ship. Not to impress.
+Token is the currency of AI Agent.
 </sub>
 
 <img src="https://capsule-render.vercel.app/api?type=rect&color=CC785C,D4A574&height=2&section=footer&reversal=false" width="100%"/>
