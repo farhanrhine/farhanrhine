@@ -52,170 +52,23 @@ Currently a final-year CS student at Chandigarh University, ex-Infosys Springboa
 
 ## `./projects --year 2026`
 
-> Most recent work. Production deployments, real pipelines, actual systems.
-
-<table>
-<tr>
-<td width="50%" valign="top">
-
-#### 🤖 Multi-AI Agent System
-`LangGraph` `Groq` `Tavily` `FastAPI` `GCP Cloud Run`
-
-Custom StateGraph architecture with real-time streaming. Jenkins + SonarQube CI/CD. One of the first things I shipped end-to-end on GCP.
-
-[![Repo](https://img.shields.io/badge/View_Repo-161B22?style=flat-square&logo=github&logoColor=CC785C)](https://github.com/farhanrhine/multi-ai-agent-gcp)
-
-</td>
-<td width="50%" valign="top">
-
-#### 🏥 MedAssist-AI — Medical RAG Agent
-`LangChain` `FAISS` `Flask` `Trivy` `GCP Cloud Run`
-
-RAG over GALE Encyclopedia with source citations. Container security via Trivy. Healthcare use case — accuracy matters.
-
-[![Repo](https://img.shields.io/badge/View_Repo-161B22?style=flat-square&logo=github&logoColor=CC785C)](https://github.com/farhanrhine/MedAssist-AI)
-
-</td>
-</tr>
-
-<tr>
-<td width="50%" valign="top">
-
-#### 🎭 Celebrity Face Detection Agent
-`OpenCV` `Groq Llama 4` `Flask` `CircleCI` `GKE`
-
-AI-powered face identification + Q&A engine. Nginx Ingress, Let's Encrypt TLS, full K8s deployment.
-
-[![Repo](https://img.shields.io/badge/View_Repo-161B22?style=flat-square&logo=github&logoColor=CC785C)](https://github.com/farhanrhine/face-detect-ai-agent-gcp)
-
-</td>
-<td width="50%" valign="top">
-
-#### 📚 Recall AI — Study Agent
-`FastAPI` `LangChain` `Kubernetes` `Argo CD`
-
-Teach-then-test workflow. Contextual quiz generation from chat history. Single-file architecture, GitOps deployment via Argo CD.
-
-[![Repo](https://img.shields.io/badge/View_Repo-161B22?style=flat-square&logo=github&logoColor=CC785C)](https://github.com/farhanrhine/recall-ai-agent-gcp)
-
-</td>
-</tr>
-
-<tr>
-<td width="50%" valign="top">
-
-#### 🎵 AI Music Composer Agent
-`LangChain` `NumPy` `SciPy` `Streamlit` `GKE`
-
-Agentic composition with custom additive synthesis engine — ADSR envelopes, harmonics, the works. GitLab CI/CD.
-
-[![Repo](https://img.shields.io/badge/View_Repo-161B22?style=flat-square&logo=github&logoColor=CC785C)](https://github.com/farhanrhine/music-composer-ai-agent-gcp)
-
-</td>
-<td width="50%" valign="top">
-
-#### ✈️ Travel Planner AI Agent
-`Whisper STT` `Orpheus TTS` `LangChain` `Folium` `K8s`
-
-Voice in, narrated itinerary out, interactive route map rendered. ELK stack monitoring on Kubernetes.
-
-[![Repo](https://img.shields.io/badge/View_Repo-161B22?style=flat-square&logo=github&logoColor=CC785C)](https://github.com/farhanrhine/travel-planner-ai-agent-gcp)
-
-</td>
-</tr>
-
-<tr>
-<td width="50%" valign="top">
-
-#### 🔬 Research DeepAgent
-`LangGraph` `LangChain` `Autonomous Agents`
-
-Planning + subagent spawning + filesystem backend. Complex autonomous research tasks — not just a chatbot wrapper.
-
-[![Repo](https://img.shields.io/badge/View_Repo-161B22?style=flat-square&logo=github&logoColor=CC785C)](https://github.com/farhanrhine/research-deepagent)
-
-</td>
-<td width="50%" valign="top">
-
-#### 🛒 Retail AI Agent
-`LangChain` `Qwen3-32B` `LangSmith` `FastAPI`
-
-Dual-mode: personal shopper + support assistant. Routes between 4 tools, enforces return policies from CSV with zero hallucinations. LangSmith observability.
-
-[![Repo](https://img.shields.io/badge/View_Repo-161B22?style=flat-square&logo=github&logoColor=CC785C)](https://github.com/farhanrhine/Retail-AI-Agent)
-
-</td>
-</tr>
-
-<tr>
-<td width="50%" valign="top">
-
-#### 🤝 OpenClaw Retail Support
-`OpenClaw` `GLM-4.5-Air` `WhatsApp` `Telegram`
-
-Autonomous customer support over WhatsApp + Telegram. Custom tool-invocation layer, smart escalation logic for edge cases that need humans.
-
-[![Repo](https://img.shields.io/badge/View_Repo-161B22?style=flat-square&logo=github&logoColor=CC785C)](https://github.com/farhanrhine/OpenClaw-Retail-Support-Agent)
-
-</td>
-<td width="50%" valign="top">
-
-#### 🧠 Tourism Recommendation System
-`PyTorch` `Neural Collaborative Filtering` `Streamlit`
-
-Hybrid deep learning — NCF + content-based models fused via learnable attention mechanism. Predicts destination preferences dynamically.
-
-[![Repo](https://img.shields.io/badge/View_Repo-161B22?style=flat-square&logo=github&logoColor=CC785C)](https://github.com/farhanrhine/Deep_Learning-Tourism_Recommendation)
-
-</td>
-</tr>
-
-<tr>
-<td width="50%" valign="top">
-
-#### 🕌 Quran Bigram Model
-`NLP` `Bigram Analysis` `Statistical Modeling`
-
-Statistical language model over Quranic text. Explores linguistic patterns in classical Arabic — this one is personal.
-
-[![Repo](https://img.shields.io/badge/View_Repo-161B22?style=flat-square&logo=github&logoColor=CC785C)](https://github.com/farhanrhine/quran-bigram-model)
-
-</td>
-<td width="50%" valign="top">
-
-#### 💍 Multi-Agent Wedding Planner
-`Multi-Agent` `Coordination` `Planning`
-
-Specialized agents collaborating — venue, catering, budget, timeline. Good testbed for inter-agent coordination patterns.
-
-[![Repo](https://img.shields.io/badge/View_Repo-161B22?style=flat-square&logo=github&logoColor=CC785C)](https://github.com/farhanrhine/Multi-Agent-Wedding-Planner)
-
-</td>
-</tr>
-
-<tr>
-<td width="50%" valign="top">
-
-#### ⚡ IoT Power Consumption Analysis
-`Scikit-Learn` `Pandas` `Time-Series EDA`
-
-End-to-end ML on IoT electrical data — power computation, pattern identification, high-usage anomaly detection.
-
-[![Repo](https://img.shields.io/badge/View_Repo-161B22?style=flat-square&logo=github&logoColor=CC785C)](https://github.com/farhanrhine/IoT-Power-Consumption-Analysis)
-
-</td>
-<td width="50%" valign="top">
-
-#### 🛒 Flipkart Shopping Agent
-`LangChain` `FastAPI` `GCP Cloud Run`
-
-Natural language product search and comparison. Full CI/CD, cloud-native architecture. Production deployment.
-
-[![Repo](https://img.shields.io/badge/View_Repo-161B22?style=flat-square&logo=github&logoColor=CC785C)](https://github.com/farhanrhine/flipkart-shopping-agent-gcp)
-
-</td>
-</tr>
-</table>
+| | Project | Description | Stack | |
+|--|---------|-------------|-------|--|
+| 🧠 | **Tourism Recommendation System** | Hybrid deep learning engine fusing NCF + content-based models via learnable attention to predict destination preferences | `PyTorch` `Neural Collaborative Filtering` `Streamlit` | [↗](https://github.com/farhanrhine/Deep_Learning-Tourism_Recommendation) |
+| 🤝 | **OpenClaw Retail Support** | Autonomous customer support over WhatsApp & Telegram with custom tool-invocation and smart human-escalation logic | `OpenClaw` `GLM-4.5-Air` `WhatsApp` `Telegram` | [↗](https://github.com/farhanrhine/OpenClaw-Retail-Support-Agent) |
+| 🛍️ | **Retail AI Agent** | Dual-mode personal shopper + support agent routing across 4 tools, enforcing return policies from CSV with zero hallucinations | `LangChain` `Qwen3-32B` `LangSmith` `FastAPI` | [↗](https://github.com/farhanrhine/Retail-AI-Agent) |
+| 🤖 | **Multi-AI Agent System** | Production multi-agent app with custom LangGraph StateGraph, dynamic tool routing, and real-time streaming on GCP Cloud Run | `LangGraph` `Groq` `FastAPI` `GCP Cloud Run` `Jenkins` | [↗](https://github.com/farhanrhine/multi-ai-agent-gcp) |
+| ⚡ | **IoT Power Consumption Analysis** | End-to-end ML on electrical time-series — computes power, identifies usage patterns, isolates high-consumption anomalies | `Scikit-Learn` `Pandas` `Time-Series EDA` | [↗](https://github.com/farhanrhine/IoT-Power-Consumption-Analysis) |
+| 🎵 | **AI Music Composer Agent** | Agentic composition with custom additive synthesis engine — ADSR envelopes, harmonics, deployed on GKE via GitLab CI/CD | `LangChain` `NumPy` `SciPy` `Streamlit` `GKE` | [↗](https://github.com/farhanrhine/music-composer-ai-agent-gcp) |
+| 🎭 | **Celebrity Face Detection Agent** | AI-powered face identification + Q&A engine using OpenCV and Groq Llama 4, with Nginx Ingress and full K8s deployment | `OpenCV` `Groq Llama 4` `Flask` `CircleCI` `GKE` | [↗](https://github.com/farhanrhine/face-detect-ai-agent-gcp) |
+| 📚 | **Recall AI — Study Agent** | Teach-then-test workflow with contextual quiz generation from chat history, deployed via GitOps with Argo CD | `FastAPI` `LangChain` `Kubernetes` `Argo CD` | [↗](https://github.com/farhanrhine/recall-ai-agent-gcp) |
+| 🏥 | **MedAssist-AI — Medical RAG Agent** | Healthcare chatbot with RAG over GALE Encyclopedia, mandatory source citations, Trivy container security in CI/CD | `LangChain` `FAISS` `Flask` `Trivy` `GCP Cloud Run` | [↗](https://github.com/farhanrhine/MedAssist-AI) |
+| 🔬 | **Research DeepAgent** | Autonomous research agent with planning, subagent spawning, and filesystem backend for complex multi-step tasks | `LangGraph` `LangChain` `Autonomous Agents` | [↗](https://github.com/farhanrhine/research-deepagent) |
+| ✈️ | **Travel Planner AI Agent** | Voice-in, narrated-itinerary-out travel planner with interactive route maps, deployed on K8s with ELK stack monitoring | `Whisper STT` `Orpheus TTS` `LangChain` `Folium` `K8s` | [↗](https://github.com/farhanrhine/travel-planner-ai-agent-gcp) |
+| 🛒 | **Flipkart Shopping Agent** | Production-grade NLP shopping assistant for product search and comparison, cloud-native on GCP with full CI/CD | `LangChain` `FastAPI` `GCP Cloud Run` | [↗](https://github.com/farhanrhine/flipkart-shopping-agent-gcp) |
+| 💍 | **Multi-Agent Wedding Planner** | Specialized agents collaborating across venue, catering, budget, and timeline — testbed for inter-agent coordination patterns | `Multi-Agent` `LangChain` `Coordination` `Planning` | [↗](https://github.com/farhanrhine/Multi-Agent-Wedding-Planner) |
+| 🕌 | **Quran Bigram Model** | Statistical language model over Quranic text exploring linguistic patterns and structure in classical Arabic | `NLP` `Bigram Analysis` `Statistical Modeling` | [↗](https://github.com/farhanrhine/quran-bigram-model) |
+| 📊 | **Moltbook Analysis** | Data analytics and visualization project extracting behavioral insights from Moltbook platform user data | `Data Analytics` `Visualization` `Statistics` | [↗](https://github.com/farhanrhine/moltbook-analysis) |
 
 <br/>
 
@@ -223,76 +76,14 @@ Natural language product search and comparison. Full CI/CD, cloud-native archite
 
 ## `./projects --year 2025`
 
-<table>
-<tr>
-<td width="50%" valign="top">
-
-#### 🎌 AI Anime Recommender RAG
-`ChromaDB` `Groq Llama 3.1` `FastAPI` `GKE`
-
-Production RAG on GKE. ChromaDB vector store, CI/CD pipeline, the whole stack.
-
-[![Repo](https://img.shields.io/badge/View_Repo-161B22?style=flat-square&logo=github&logoColor=CC785C)](https://github.com/farhanrhine/ai-anime-recommender-rag)
-
-</td>
-<td width="50%" valign="top">
-
-#### ✈️ Flight Satisfaction MLOps
-`LightGBM` `MLflow` `DVC` `Jenkins` `Docker`
-
-End-to-end MLOps pipeline. Data versioning with DVC, experiment tracking with MLflow, reproducible from day one.
-
-[![Repo](https://img.shields.io/badge/View_Repo-161B22?style=flat-square&logo=github&logoColor=CC785C)](https://github.com/farhanrhine/flight-satisfaction-mlops)
-
-</td>
-</tr>
-
-<tr>
-<td width="50%" valign="top">
-
-#### 💳 Paytm Local MCP Server
-`MCP` `Claude AI` `Privacy-First`
-
-Analyze Paytm UPI transactions in natural language. 100% local processing, strict schema validation, zero data leaves your machine.
-
-[![Repo](https://img.shields.io/badge/View_Repo-161B22?style=flat-square&logo=github&logoColor=CC785C)](https://github.com/farhanrhine/paytm-local-mcp-server)
-
-</td>
-<td width="50%" valign="top">
-
-#### 🏥 Insurance Premium Prediction
-`Regression` `FastAPI` `Docker` `AWS EC2`
-
-ML model behind a FastAPI endpoint, containerized, deployed on EC2. Clean inference API with horizontal scaling.
-
-[![Repo](https://img.shields.io/badge/View_Repo-161B22?style=flat-square&logo=github&logoColor=CC785C)](https://github.com/farhanrhine/insurance-premium-prediction-fastapi-docker-aws)
-
-</td>
-</tr>
-
-<tr>
-<td width="50%" valign="top">
-
-#### 🎓 AI Tutor Skill
-`Claude AI` `Prompt Engineering` `EdTech`
-
-Claude skill that adapts technical AI explanations to the user's actual understanding level. Built to teach, not just answer.
-
-[![Repo](https://img.shields.io/badge/View_Repo-161B22?style=flat-square&logo=github&logoColor=CC785C)](https://github.com/farhanrhine/ai-tutor-skill)
-
-</td>
-<td width="50%" valign="top">
-
-#### 🕷️ Web Eater
-`Web Scraping` `Python` `Data Extraction`
-
-Scrapes and structures web content for downstream LLM consumption. Clean, simple, does what it says.
-
-[![Repo](https://img.shields.io/badge/View_Repo-161B22?style=flat-square&logo=github&logoColor=CC785C)](https://github.com/farhanrhine/web-eater)
-
-</td>
-</tr>
-</table>
+| | Project | Description | Stack | |
+|--|---------|-------------|-------|--|
+| 🎌 | **AI Anime Recommender RAG** | Production RAG on GKE with ChromaDB vector store, Groq Llama 3.1, FastAPI backend, and full CI/CD pipeline | `ChromaDB` `Groq Llama 3.1` `FastAPI` `GKE` | [↗](https://github.com/farhanrhine/ai-anime-recommender-rag) |
+| ✈️ | **Flight Satisfaction MLOps** | End-to-end MLOps pipeline with LightGBM, MLflow experiment tracking, DVC data versioning, and Jenkins CI/CD | `LightGBM` `MLflow` `DVC` `Jenkins` `Docker` | [↗](https://github.com/farhanrhine/flight-satisfaction-mlops) |
+| 💳 | **Paytm Local MCP Server** | Privacy-first offline MCP server with 6 tools for NL querying of 1,000+ UPI transactions — zero cloud dependency | `MCP` `Claude AI` `FastMCP` `SQLite` `Pydantic` | [↗](https://github.com/farhanrhine/paytm-local-mcp-server) |
+| 🕷️ | **Web Eater** | Web scraping and extraction tool that structures raw web content for clean downstream LLM consumption | `Web Scraping` `Python` `Data Extraction` | [↗](https://github.com/farhanrhine/web-eater) |
+| 🎓 | **AI Tutor Skill** | Claude skill that adapts technical AI explanations dynamically to match the user's actual understanding level | `Claude AI` `Prompt Engineering` `EdTech` | [↗](https://github.com/farhanrhine/ai-tutor-skill) |
+| 🏥 | **Insurance Premium Prediction API** | ML regression model behind a FastAPI endpoint, containerized with Docker, deployed and scaled on AWS EC2 | `Regression` `FastAPI` `Docker` `AWS EC2` | [↗](https://github.com/farhanrhine/insurance-premium-prediction-fastapi-docker-aws) |
 
 <br/>
 
@@ -368,7 +159,7 @@ Scrapes and structures web content for downstream LLM consumption. Clean, simple
 <div align="center">
 
 <img width="49%" src="https://github-readme-stats.vercel.app/api?username=farhanrhine&show_icons=true&hide_border=true&bg_color=0D1117&title_color=CC785C&icon_color=D4A574&text_color=C9D1D9&count_private=true" />
-<img width="49%" src="https://streak-stats.demolab.com?user=farhanrhine&hide_border=true&background=0D1117&ring=CC785C&fire=D4A574&currStreakLabel=CC785C&sideLabels=D4A574&dates=8A8374&stroke=CC785C" />
+<img width="49%" src="https://streak-stats.demolab.com?user=farhanrhine&hide_border=true&background=0D1117&ring=CC785C&fire=D4A574&currStreakLabel=CC785C&sideLabels=D4A574&dates=C9D1D9&stroke=CC785C&currStreakNum=C9D1D9&sideNums=C9D1D9" />
 
 <img width="49%" src="https://github-readme-stats.vercel.app/api/top-langs/?username=farhanrhine&hide_border=true&bg_color=0D1117&title_color=CC785C&text_color=C9D1D9&layout=compact&langs_count=8" />
 
@@ -380,15 +171,15 @@ Scrapes and structures web content for downstream LLM consumption. Clean, simple
 
 | Issuer | Certification |
 |--------|--------------|
-| LangChain Academy | Project: Deep Agents |
-| LangChain Academy | Intro to LangChain |
-| DeepLearning.AI | Retrieval Augmented Generation |
-| Udemy | LLMOps And AIOps Bootcamp |
-| NPTEL | Deep Learning |
-| NPTEL | Intro to Machine Learning |
-| DeepLearning.AI | AI For Everyone |
-| IBM | Introduction to AI |
-| University of Michigan | Python for Everybody |
+| LangChain Academy | [Project: Deep Agents](https://academy.langchain.com/certificates/5c6dqdikrw) |
+| LangChain Academy | [Intro to LangChain](https://academy.langchain.com/certificates/sgwwul3tgp) |
+| DeepLearning.AI | [Retrieval Augmented Generation](https://coursera.org/share/ee82b26d5d154fbda135d7b84095d8e5) |
+| Udemy | [LLMOps And AIOps Bootcamp](https://www.udemy.com/certificate/UC-af7ba73d-22ce-4804-90dc-bb9f523e5c44/) |
+| NPTEL | [Deep Learning](https://www.linkedin.com/in/farhanrhine/details/certifications/1749842070696/single-media-viewer/?type=DOCUMENT&profileId=ACoAADnswakBhLaU0AxShVqizbtvdF0VtslDSpI) |
+| NPTEL | [Intro to Machine Learning](https://archive.nptel.ac.in/content/noc/NOC24/SEM2/Ecertificates/106/noc24-cs81/Course/NPTEL24CS81S33290026902612520.pdf) |
+| DeepLearning.AI | [AI For Everyone](https://coursera.org/share/ac3bb60541c6cfe3c78be60158902c3f) |
+| IBM | [Introduction to AI](https://coursera.org/share/a6405ce5372a457b6999f334a54237ba) |
+| University of Michigan | [Python for Everybody](https://coursera.org/share/a4d76a4505c78d9bdbd88707c973c0cc) |
 
 <br/>
 
