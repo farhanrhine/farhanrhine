@@ -37,7 +37,7 @@ farhan = {
     "focus"       : "Production-grade Agentic AI Systems",
     "approach"    : "understand every line — not vibe coding",
     "deployed"    : "10+ projects across GCP, AWS & Kubernetes",
-    "currently"   : ["Spendly (Claude Code, no vibe-coding)", "agents from scratch → LangGraph internals", "DSA & system design at scale"],
+    "currently"   : ["Finlo (Claude Code, Spec-Driven Development)", "agents from scratch → LangGraph internals", "ML, DSA & system design at scale"],
     "belief"      : "The gap between notebook and production is where real engineering lives.",
 }
 ```
@@ -207,7 +207,7 @@ If you're building something real in AI — not a wrapper, an actual system — 
 <div align="center">
 
 <sub>
-Token is the currency of AI Agent.
+Token 🪙 is the currency 💴of AI Agent.
 </sub>
 
 <img src="https://capsule-render.vercel.app/api?type=rect&color=CC785C,D4A574&height=2&section=footer&reversal=false" width="100%"/>
