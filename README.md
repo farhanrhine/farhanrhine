@@ -161,7 +161,7 @@ Currently a final-year CS student at Chandigarh University, ex-Infosys Springboa
 <img width="49%" src="https://github-readme-stats.vercel.app/api?username=farhanrhine&show_icons=true&hide_border=true&bg_color=0D1117&title_color=CC785C&icon_color=D4A574&text_color=C9D1D9&count_private=true" />
 <img width="49%" src="https://streak-stats.demolab.com?user=farhanrhine&hide_border=true&background=0D1117&ring=CC785C&fire=D4A574&currStreakLabel=CC785C&sideLabels=D4A574&dates=C9D1D9&stroke=CC785C&currStreakNum=C9D1D9&sideNums=C9D1D9" />
 
-<img width="49%" src="https://github-readme-stats.vercel.app/api/top-langs/?username=farhanrhine&hide_border=true&bg_color=0D1117&title_color=CC785C&text_color=C9D1D9&layout=compact&langs_count=8" />
+<img width="49%" src="https://github-readme-stats.vercel.app/api/top-langs/?username=farhanrhine&hide_border=true&bg_color=0D1117&title_color=CC785C&text_color=C9D1D9&layout=compact&langs_count=8&hide=Jupyter%20Notebook,HTML,CSS" />
 
 </div>
 
