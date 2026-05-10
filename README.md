@@ -110,7 +110,7 @@ Still learning. Trying to do it right.
 <div align="center">
 
 <img width="49%" src="https://github-readme-stats.vercel.app/api?username=farhanrhine&show_icons=true&hide_border=true&bg_color=0D1117&title_color=ffffff&icon_color=aaaaaa&text_color=C9D1D9&count_private=true" />
-<img width="49%" src="https://streak-stats.demolab.com?user=farhanrhine&hide_border=true&background=0D1117&ring=ffffff&fire=aaaaaa&currStreakLabel=ffffff&sideLabels=aaaaaa&dates=C9D1D9&stroke=555555&currStreakNum=C9D1D9&sideNums=C9D1D9&cache_seconds=0" />
+<img width="49%" src="https://streak-stats.demolab.com?user=farhanrhine&hide_border=true&background=0D1117&ring=ffffff&fire=aaaaaa&currStreakLabel=ffffff&sideLabels=aaaaaa&dates=C9D1D9&stroke=555555&currStreakNum=C9D1D9&sideNums=C9D1D9&timezone=Asia%2FKolkata" />
 
 <img width="49%" src="https://github-readme-stats.vercel.app/api/top-langs/?username=farhanrhine&hide_border=true&bg_color=0D1117&title_color=ffffff&text_color=C9D1D9&layout=compact&langs_count=8&hide=Jupyter%20Notebook,HTML,CSS" />
 
