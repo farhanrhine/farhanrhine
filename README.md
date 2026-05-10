@@ -1,111 +1,48 @@
-<div align="center">
+# Hi, I'm Farhan 👋
 
-```text
-╔══════════════════════════════════════════════════════════════╗
-║  > initializing farhan.ai                                    ║
-║  > loading: agentic Eng, MCP, rag pipelines, cloud-native ml ║
-║  > status: BUILDING                                          ║
-╚══════════════════════════════════════════════════════════════╝
-```
+📍 **India** | 🤖 **ML & AI Engineer** | 🚀 **CS '26 · Chandigarh University**
 
-# Farhan · فرحان
+I build AI/ML things
 
-**ML & AI Engineer** &nbsp;|&nbsp; Agentic AI Builder &nbsp;|&nbsp; Cloud-Native Systems
+![Python](https://img.shields.io/badge/-Python-3776AB?style=flat-square&logo=python&logoColor=white)
+![LangGraph](https://img.shields.io/badge/-LangGraph-1C3C3C?style=flat-square&logoColor=white)
+![FastAPI](https://img.shields.io/badge/-FastAPI-009688?style=flat-square&logo=fastapi&logoColor=white)
+![LangChain](https://img.shields.io/badge/-LangChain-1C3C3C?style=flat-square&logo=langchain&logoColor=white)
+![MCP](https://img.shields.io/badge/-MCP-CC785C?style=flat-square&logo=anthropic&logoColor=white)
+![Docker](https://img.shields.io/badge/-Docker-2496ED?style=flat-square&logo=docker&logoColor=white)
+![GCP](https://img.shields.io/badge/-GCP-4285F4?style=flat-square&logo=google-cloud&logoColor=white)
+![PyTorch](https://img.shields.io/badge/-PyTorch-EE4C2C?style=flat-square&logo=pytorch&logoColor=white)
 
-<img src="https://readme-typing-svg.demolab.com?font=JetBrains+Mono&weight=500&size=16&duration=3000&pause=800&color=FFFFFF&center=true&vCenter=true&width=600&lines=Building+production-grade+agentic+AI+systems.;Shipping+RAG+pipelines+%2B+infra+that+survives+real+users.;FastAPI+%7C+LangGraph+%7C+MLOps+%7C+MCP" />
+> CS Enginner who got serious about ML & AI and never looked back.
 
-[![GitHub](https://img.shields.io/badge/GitHub-farhanrhine-181717?style=flat-square&logo=github&logoColor=white)](https://github.com/farhanrhine)
-[![LinkedIn](https://img.shields.io/badge/LinkedIn-farhanrhine-0A66C2?style=flat-square&logo=linkedin&logoColor=white)](https://linkedin.com/in/farhanrhine)
-[![Portfolio](https://img.shields.io/badge/Portfolio-farhanrhine.github.io-4285F4?style=flat-square&logo=google-chrome&logoColor=white)](https://farhanrhine.github.io)
-[![Email](https://img.shields.io/badge/Email-mohammadfarhanalam09-EA4335?style=flat-square&logo=gmail&logoColor=white)](mailto:mohammadfarhanalam09@gmail.com)
+## All Projects
 
-</div>
+- 🤖 **[AI Tutor Screener](https://github.com/farhanrhine/ai-tutor-screener)** —  voice-first AI interviewer that conducts adaptive tutor screening conversations , dual STT (Openai Whisper + Web Speech), structured assessment reports with full PDF exports. Built with FastAPI and LLM and admin dashboard Deployed on Render.
+- 📋 **[FlowDesk](https://github.com/farhanrhine/FlowDesk)** —  Streamline team collaboration with a secure, aesthetic, and high-performance task management system with RBAC, zero-framework frontend, PostgreSQL on Railway.
+- 📋 **[Discord-Notion-Sync](https://github.com/farhanrhine/discord-notion-sync)** — Discord bot bridging chat to Notion with AI note refinement and web search agent.
+- 💸 **[Finlo](https://github.com/farhanrhine/Finlo)** — Personal expense tracker. Raw SQL, no ORM, no frameworks. Spec-Driven Development with Claude Code.
+- 🎓 **[Student Study Assistant](https://github.com/farhanrhine/discord-thread-notion-mind)** — Study bot with private threads, Pydantic structured LLM explanations, Notion progress tracking.
+- 🌍 **[Tourism Recommendation System](https://github.com/farhanrhine/Tourism-Recommendation)** — Hybrid deep learning engine featuring NCF and content-based branches with a learnable attention fusion mechanism and Streamlit deployment.
+- 🛍️ **[OpenClaw Retail Support Agent](https://github.com/farhanrhine/OpenClaw-Retail-Support-Agent)** — Autonomous customer support agent integrated with WhatsApp and Telegram via OpenClaw + GLM-4.5-Air.
+- 🛒 **[Retail AI Agent](https://github.com/farhanrhine/Retail-AI-Agent)** — Dual-purpose personal shopper + support agent routing across 4 custom tools, zero hallucinations, LangSmith tracing.
+- 🤖 **[Multi-AI Agent System](https://github.com/farhanrhine/multi-ai-agent-gcp)** — Production multi-agent on GCP with LangGraph StateGraph, real-time streaming, Jenkins CI/CD.
+- ⚡ **[IoT Power Consumption Analysis](https://github.com/farhanrhine/IoT-Power-Consumption-Analysis)** — Time-series EDA on IoT device data with anomaly detection on high-power usage.
+- 🎭 **[Celebrity Face Detection](https://github.com/farhanrhine/face-detect-ai-agent-gcp)** — AI-powered face ID using OpenCV + Llama 4, deployed on GKE with CircleCI pipeline.
+- 📚 **[Recall AI Study Agent](https://github.com/farhanrhine/recall-ai-agent-gcp)** — Teach-then-test study companion with contextual quiz generation and Argo CD deployment.
+- ✈️ **[Travel Planner AI Agent](https://github.com/farhanrhine/travel-planner-ai-agent-gcp)** — Voice input (Whisper STT), narrated output (Orpheus TTS), interactive route maps, ELK monitoring.
+- 🏪 **[Flipkart Shopping Agent](https://github.com/farhanrhine/flipkart-shopping-agent-gcp)** — Natural language product search on GCP with full CI/CD pipeline.
+- 💒 **[Multi-Agent Wedding Planner](https://github.com/farhanrhine/Multi-Agent-Wedding-Planner)** — Specialized agents coordinating venue, catering, budgeting, and timeline.
+- 🕌 **[Quran Bigram Model](https://github.com/farhanrhine/quran-bigram-model)** — Statistical language model over classical Arabic Quranic corpus exploring morphological co-occurrence patterns.
+- 🧠 **[Tourism Recommendation System](https://github.com/farhanrhine/Deep_Learning-Tourism_Recommendation)** — NCF + content-based hybrid with learnable attention; beat fixed-blend by ~8% on hit-rate@10.
+- 🔬 **[Research DeepAgent](https://github.com/farhanrhine/research-deepagent)** — Autonomous research agent with subagent spawning, context isolation, filesystem backend on LangGraph.
+- 💳 **[Paytm Local MCP Server](https://github.com/farhanrhine/paytm-local-mcp-server)** — One of the first publicly available personal-finance MCP implementations. stdio + SSE transport, 950+ transactions, 100% local.
+- 🏥 **[Medical RAG AI Agent](https://github.com/farhanrhine/medical-rag-ai-agent-gcp)** — RAG over GALE Medical Encyclopedia with custom chunking that preserved medical context.
+- ✈️ **[Flight Satisfaction MLOps](https://github.com/farhanrhine/flight-satisfaction-mlops)** — Full MLOps loop: DVC, MLflow, LightGBM 93% accuracy, Jenkins → GCP.
+- 🎌 **[AI Anime Recommender RAG](https://github.com/farhanrhine/ai-anime-recommender-rag)** — Production RAG on GKE with ChromaDB and Groq Llama 3.1.
+- 🛡️ **[Insurance Premium Prediction](https://github.com/farhanrhine/insurance-premium-prediction-fastapi-docker-aws)** — ML regression served via FastAPI, containerized with Docker, deployed on AWS EC2.
+- 🕸️ **[Web Eater](https://github.com/farhanrhine/web-eater)** — Web scraping and structured data extraction pipeline for LLM consumption.
 
----
-
-## `whoami`
-
-CS student who got serious about ML/AI and has been building ever since.
-Still learning. Trying to do it right.
-
----
-
-## `./projects --featured`
-
-| | Project | What was hard | Stack | |
-|--|---------|--------------|-------|--|
-| 🤖 | **Multi-AI Agent System** | Designing a LangGraph StateGraph that routes dynamically without deadlocking under concurrent tool calls; got p95 response under 2s on Cloud Run | `LangGraph` `Groq` `FastAPI` `GCP Cloud Run` `Jenkins` | [↗](https://github.com/farhanrhine/multi-ai-agent-gcp) |
-| 🏥 | **MedAssist-AI — Medical RAG** | Chunking strategy on GALE Encyclopedia — naive splits broke medical context; custom overlap + metadata filtering reduced hallucinations measurably | `LangChain` `FAISS` `Flask` `Trivy` `GCP Cloud Run` | [↗](https://github.com/farhanrhine/MedAssist-AI) |
-| 💳 | **Paytm Local MCP Server** | First publicly available personal-finance MCP implementation; built stdio + SSE transport from scratch, zero cloud dependency on 1,000+ transactions | `MCP` `FastMCP` `Claude AI` `SQLite` `Pydantic` | [↗](https://github.com/farhanrhine/paytm-local-mcp-server) |
-| ✈️ | **Flight Satisfaction MLOps** | Full MLOps loop — not just a model; DVC-versioned data, MLflow experiment tracking, LightGBM at 93% accuracy, Jenkins pipeline to GCP | `LightGBM` `MLflow` `DVC` `Jenkins` `Docker` | [↗](https://github.com/farhanrhine/flight-satisfaction-mlops) |
-| 🧠 | **Tourism Recommendation System** | Fused NCF + content-based via learnable attention; attention weighting outperformed fixed-blend by ~8% on hit-rate@10 | `PyTorch` `Neural Collaborative Filtering` `Streamlit` | [↗](https://github.com/farhanrhine/Deep_Learning-Tourism_Recommendation) |
-| 🔬 | **Research DeepAgent** | Multi-step autonomous planning with subagent spawning; hardest part was preventing context bleed between spawned subtasks | `LangGraph` `LangChain` `Autonomous Agents` | [↗](https://github.com/farhanrhine/research-deepagent) |
-| 🕌 | **Quran Bigram Model** | Statistical language model over classical Arabic Quranic corpus — exploring morphological patterns and co-occurrence structure | `NLP` `Bigram Analysis` `Statistical Modeling` | [↗](https://github.com/farhanrhine/quran-bigram-model) |
-
----
-
-## `./stack --full`
-
-<div align="center">
-
-**Agentic AI & LLMs**
-
-![LangChain](https://img.shields.io/badge/LangChain-1C3C3C?style=flat-square&logo=langchain&logoColor=white)
-![LangGraph](https://img.shields.io/badge/LangGraph-1C3C3C?style=flat-square&logoColor=white)
-![LangSmith](https://img.shields.io/badge/LangSmith-1C3C3C?style=flat-square&logoColor=white)
-![RAG](https://img.shields.io/badge/RAG-4A4A4A?style=flat-square&logoColor=white)
-![MCP](https://img.shields.io/badge/MCP-CC785C?style=flat-square&logo=anthropic&logoColor=white)
-![Groq](https://img.shields.io/badge/Groq-F55036?style=flat-square&logoColor=white)
-![Ollama](https://img.shields.io/badge/Ollama-4A4A4A?style=flat-square&logoColor=white)
-![HuggingFace](https://img.shields.io/badge/HuggingFace-FFD21E?style=flat-square&logo=huggingface&logoColor=black)
-
-**ML & Deep Learning**
-
-![PyTorch](https://img.shields.io/badge/PyTorch-EE4C2C?style=flat-square&logo=pytorch&logoColor=white)
-![TensorFlow](https://img.shields.io/badge/TensorFlow-FF6F00?style=flat-square&logo=tensorflow&logoColor=white)
-![Scikit-Learn](https://img.shields.io/badge/Scikit--Learn-F7931E?style=flat-square&logo=scikit-learn&logoColor=white)
-![OpenCV](https://img.shields.io/badge/OpenCV-5C3EE8?style=flat-square&logo=opencv&logoColor=white)
-![Keras](https://img.shields.io/badge/Keras-D00000?style=flat-square&logo=keras&logoColor=white)
-
-**Backend & APIs**
-
-![FastAPI](https://img.shields.io/badge/FastAPI-009688?style=flat-square&logo=fastapi&logoColor=white)
-![Flask](https://img.shields.io/badge/Flask-000000?style=flat-square&logo=flask&logoColor=white)
-![Streamlit](https://img.shields.io/badge/Streamlit-FF4B4B?style=flat-square&logo=streamlit&logoColor=white)
-![Pydantic](https://img.shields.io/badge/Pydantic-E92063?style=flat-square&logo=pydantic&logoColor=white)
-
-**MLOps & DevOps**
-
-![Docker](https://img.shields.io/badge/Docker-2496ED?style=flat-square&logo=docker&logoColor=white)
-![Kubernetes](https://img.shields.io/badge/Kubernetes-326CE5?style=flat-square&logo=kubernetes&logoColor=white)
-![Jenkins](https://img.shields.io/badge/Jenkins-D24939?style=flat-square&logo=jenkins&logoColor=white)
-![GitLab CI](https://img.shields.io/badge/GitLab_CI-FC6D26?style=flat-square&logo=gitlab&logoColor=white)
-![CircleCI](https://img.shields.io/badge/CircleCI-343434?style=flat-square&logo=circleci&logoColor=white)
-![Argo CD](https://img.shields.io/badge/Argo_CD-EF7B4D?style=flat-square&logo=argo&logoColor=white)
-![MLflow](https://img.shields.io/badge/MLflow-0194E2?style=flat-square&logo=mlflow&logoColor=white)
-![DVC](https://img.shields.io/badge/DVC-945DD6?style=flat-square&logo=dvc&logoColor=white)
-![SonarQube](https://img.shields.io/badge/SonarQube-4E9BCD?style=flat-square&logo=sonarqube&logoColor=white)
-![Trivy](https://img.shields.io/badge/Trivy-1904DA?style=flat-square&logoColor=white)
-
-**Cloud & Infrastructure**
-
-![GCP](https://img.shields.io/badge/GCP-4285F4?style=flat-square&logo=google-cloud&logoColor=white)
-![AWS](https://img.shields.io/badge/AWS-232F3E?style=flat-square&logo=amazon-aws&logoColor=white)
-![GKE](https://img.shields.io/badge/GKE-4285F4?style=flat-square&logo=google-cloud&logoColor=white)
-![Cloud Run](https://img.shields.io/badge/Cloud_Run-4285F4?style=flat-square&logo=google-cloud&logoColor=white)
-![AWS EC2](https://img.shields.io/badge/EC2-FF9900?style=flat-square&logo=amazon-ec2&logoColor=white)
-![Amazon ECS](https://img.shields.io/badge/ECS-FF9900?style=flat-square&logo=amazon-ecs&logoColor=white)
-
-**Vector Databases**
-
-![FAISS](https://img.shields.io/badge/FAISS-00599C?style=flat-square&logoColor=white)
-![ChromaDB](https://img.shields.io/badge/ChromaDB-FF6B35?style=flat-square&logoColor=white)
-![Pinecone](https://img.shields.io/badge/Pinecone-000000?style=flat-square&logoColor=white)
-![AstraDB](https://img.shields.io/badge/AstraDB-7B2FBE?style=flat-square&logoColor=white)
-
-</div>
-
-## `./stats`
+## Stats
 
 <div align="center">
 
@@ -116,18 +53,14 @@ Still learning. Trying to do it right.
 
 </div>
 
----
+## Certifications
 
-## `./certifications`
+- **LangChain**: [Project: Deep Agents](https://academy.langchain.com/certificates/5c6dqdikrw), [Intro to LangChain](https://academy.langchain.com/certificates/sgwwul3tgp) | **DeepLearning.AI**: [RAG](https://coursera.org/share/ee82b26d5d154fbda135d7b84095d8e5), [AI For Everyone](https://coursera.org/share/ac3bb60541c6cfe3c78be60158902c3f) | **NPTEL**: [Deep Learning](https://www.linkedin.com/in/farhanrhine/details/certifications/1749842070696/single-media-viewer/?type=DOCUMENT&profileId=ACoAADnswakBhLaU0AxShVqizbtvdF0VtslDSpI), [Intro to ML](https://archive.nptel.ac.in/content/noc/NOC24/SEM2/Ecertificates/106/noc24-cs81/Course/NPTEL24CS81S33290026902612520.pdf)
+- **Specialized**: [LLMOps Bootcamp (Udemy)](https://www.udemy.com/certificate/UC-af7ba73d-22ce-4804-90dc-bb9f523e5c44/), [Intro to AI (IBM)](https://coursera.org/share/a6405ce5372a457b6999f334a54237ba), [Python for Everybody (UMich)](https://coursera.org/share/a4d76a4505c78d9bdbd88707c973c0cc)
+  
+## Connect
 
-| Issuer | Certification |
-|--------|--------------|
-| LangChain Academy | [Project: Deep Agents](https://academy.langchain.com/certificates/5c6dqdikrw) |
-| LangChain Academy | [Intro to LangChain](https://academy.langchain.com/certificates/sgwwul3tgp) |
-| DeepLearning.AI | [Retrieval Augmented Generation](https://coursera.org/share/ee82b26d5d154fbda135d7b84095d8e5) |
-| Udemy | [LLMOps And AIOps Bootcamp](https://www.udemy.com/certificate/UC-af7ba73d-22ce-4804-90dc-bb9f523e5c44/) |
-| NPTEL | [Deep Learning](https://www.linkedin.com/in/farhanrhine/details/certifications/1749842070696/single-media-viewer/?type=DOCUMENT&profileId=ACoAADnswakBhLaU0AxShVqizbtvdF0VtslDSpI) |
-| NPTEL | [Intro to Machine Learning](https://archive.nptel.ac.in/content/noc/NOC24/SEM2/Ecertificates/106/noc24-cs81/Course/NPTEL24CS81S33290026902612520.pdf) |
-| DeepLearning.AI | [AI For Everyone](https://coursera.org/share/ac3bb60541c6cfe3c78be60158902c3f) |
-| IBM | [Introduction to AI](https://coursera.org/share/a6405ce5372a457b6999f334a54237ba) |
-| University of Michigan | [Python for Everybody](https://coursera.org/share/a4d76a4505c78d9bdbd88707c973c0cc) |
+[![GitHub](https://img.shields.io/badge/-farhanrhine-181717?style=flat-square&logo=github&logoColor=white)](https://github.com/farhanrhine)
+[![LinkedIn](https://img.shields.io/badge/-farhanrhine-0A66C2?style=flat-square&logo=linkedin&logoColor=white)](https://linkedin.com/in/farhanrhine)
+[![Portfolio](https://img.shields.io/badge/-farhanrhine.github.io-4285F4?style=flat-square&logo=google-chrome&logoColor=white)](https://farhanrhine.github.io)
+[![Email](https://img.shields.io/badge/-mohammadfarhanalam09-EA4335?style=flat-square&logo=gmail&logoColor=white)](mailto:mohammadfarhanalam09@gmail.com)
