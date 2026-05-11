@@ -5,13 +5,45 @@
 I build AI/ML things
 
 ![Python](https://img.shields.io/badge/-Python-3776AB?style=flat-square&logo=python&logoColor=white)
-![LangGraph](https://img.shields.io/badge/-LangGraph-1C3C3C?style=flat-square&logoColor=white)
-![FastAPI](https://img.shields.io/badge/-FastAPI-009688?style=flat-square&logo=fastapi&logoColor=white)
-![LangChain](https://img.shields.io/badge/-LangChain-1C3C3C?style=flat-square&logo=langchain&logoColor=white)
-![MCP](https://img.shields.io/badge/-MCP-CC785C?style=flat-square&logo=anthropic&logoColor=white)
-![Docker](https://img.shields.io/badge/-Docker-2496ED?style=flat-square&logo=docker&logoColor=white)
-![GCP](https://img.shields.io/badge/-GCP-4285F4?style=flat-square&logo=google-cloud&logoColor=white)
 ![PyTorch](https://img.shields.io/badge/-PyTorch-EE4C2C?style=flat-square&logo=pytorch&logoColor=white)
+![TensorFlow](https://img.shields.io/badge/-TensorFlow-FF6F00?style=flat-square&logo=tensorflow&logoColor=white)
+![Scikit-Learn](https://img.shields.io/badge/-Scikit--Learn-F7931E?style=flat-square&logo=scikit-learn&logoColor=white)
+![LightGBM](https://img.shields.io/badge/-LightGBM-9933CC?style=flat-square&logoColor=white)
+![NumPy](https://img.shields.io/badge/-NumPy-013243?style=flat-square&logo=numpy&logoColor=white)
+![Pandas](https://img.shields.io/badge/-Pandas-150458?style=flat-square&logo=pandas&logoColor=white)
+![OpenCV](https://img.shields.io/badge/-OpenCV-5C3EE8?style=flat-square&logo=opencv&logoColor=white)
+![LangChain](https://img.shields.io/badge/-LangChain-1C3C3C?style=flat-square&logo=langchain&logoColor=white)
+![LangGraph](https://img.shields.io/badge/-LangGraph-1C3C3C?style=flat-square&logoColor=white)
+![LangSmith](https://img.shields.io/badge/-LangSmith-1C3C3C?style=flat-square&logoColor=white)
+![MCP](https://img.shields.io/badge/-MCP-CC785C?style=flat-square&logo=anthropic&logoColor=white)
+![Claude Code](https://img.shields.io/badge/-Claude%20Code-CC785C?style=flat-square&logo=anthropic&logoColor=white)
+![OpenClaw](https://img.shields.io/badge/-OpenClaw-000000?style=flat-square&logoColor=white)
+![HuggingFace](https://img.shields.io/badge/-HuggingFace-FFD21E?style=flat-square&logo=huggingface&logoColor=black)
+![Ollama](https://img.shields.io/badge/-Ollama-4A4A4A?style=flat-square&logoColor=white)
+![RAG](https://img.shields.io/badge/-RAG-4A4A4A?style=flat-square&logoColor=white)
+![FastAPI](https://img.shields.io/badge/-FastAPI-009688?style=flat-square&logo=fastapi&logoColor=white)
+![Flask](https://img.shields.io/badge/-Flask-000000?style=flat-square&logo=flask&logoColor=white)
+![Streamlit](https://img.shields.io/badge/-Streamlit-FF4B4B?style=flat-square&logo=streamlit&logoColor=white)
+![Pydantic](https://img.shields.io/badge/-Pydantic-E92063?style=flat-square&logo=pydantic&logoColor=white)
+![ChromaDB](https://img.shields.io/badge/-ChromaDB-FF6B35?style=flat-square&logoColor=white)
+![FAISS](https://img.shields.io/badge/-FAISS-00599C?style=flat-square&logoColor=white)
+![AstraDB](https://img.shields.io/badge/-AstraDB-7B2FBE?style=flat-square&logoColor=white)
+![SQLite](https://img.shields.io/badge/-SQLite-003B57?style=flat-square&logo=sqlite&logoColor=white)
+![Docker](https://img.shields.io/badge/-Docker-2496ED?style=flat-square&logo=docker&logoColor=white)
+![Kubernetes](https://img.shields.io/badge/-Kubernetes-326CE5?style=flat-square&logo=kubernetes&logoColor=white)
+![MLflow](https://img.shields.io/badge/-MLflow-0194E2?style=flat-square&logo=mlflow&logoColor=white)
+![DVC](https://img.shields.io/badge/-DVC-945DD6?style=flat-square&logo=dvc&logoColor=white)
+![Jenkins](https://img.shields.io/badge/-Jenkins-D24939?style=flat-square&logo=jenkins&logoColor=white)
+![GitHub Actions](https://img.shields.io/badge/-GitHub%20Actions-2088FF?style=flat-square&logo=github-actions&logoColor=white)
+![GitLab CI](https://img.shields.io/badge/-GitLab%20CI-FC6D26?style=flat-square&logo=gitlab&logoColor=white)
+![CircleCI](https://img.shields.io/badge/-CircleCI-343434?style=flat-square&logo=circleci&logoColor=white)
+![Argo CD](https://img.shields.io/badge/-Argo%20CD-EF7B4D?style=flat-square&logo=argo&logoColor=white)
+![SonarQube](https://img.shields.io/badge/-SonarQube-4E9BCD?style=flat-square&logo=sonarqube&logoColor=white)
+![Trivy](https://img.shields.io/badge/-Trivy-1904DA?style=flat-square&logoColor=white)
+![Prometheus](https://img.shields.io/badge/-Prometheus-E6522C?style=flat-square&logo=prometheus&logoColor=white)
+![Grafana](https://img.shields.io/badge/-Grafana-F46800?style=flat-square&logo=grafana&logoColor=white)
+![GCP](https://img.shields.io/badge/-GCP-4285F4?style=flat-square&logo=google-cloud&logoColor=white)
+![AWS](https://img.shields.io/badge/-AWS-232F3E?style=flat-square&logo=amazon-aws&logoColor=white)
 
 > CS Enginner who got serious about ML & AI and never looked back.
 
@@ -46,10 +78,10 @@ I build AI/ML things
 
 <div align="center">
 
-<img width="49%" src="https://github-readme-stats.vercel.app/api?username=farhanrhine&show_icons=true&hide_border=true&bg_color=0D1117&title_color=ffffff&icon_color=aaaaaa&text_color=C9D1D9&count_private=true" />
-<img width="49%" src="https://github-readme-streak-stats-eight.vercel.app?user=farhanrhine&hide_border=true&background=0D1117&ring=ffffff&fire=aaaaaa&currStreakLabel=ffffff&sideLabels=aaaaaa&dates=C9D1D9&stroke=555555&currStreakNum=C9D1D9&sideNums=C9D1D9&timezone=Asia%2FKolkata" />
+<img width="49%" src="https://github-readme-stats-fast.vercel.app/api?username=farhanrhine&show_icons=true&hide_border=true&theme=radical&count_private=true" />
+<img width="49%" src="https://github-readme-streak-stats-eight.vercel.app?user=farhanrhine&hide_border=true&theme=radical&timezone=Asia%2FKolkata" />
 
-<img width="49%" src="https://github-readme-stats.vercel.app/api/top-langs/?username=farhanrhine&hide_border=true&bg_color=0D1117&title_color=ffffff&text_color=C9D1D9&layout=compact&langs_count=8&hide=Jupyter%20Notebook,HTML,CSS" />
+<img width="49%" src="https://github-readme-stats-fast.vercel.app/api/top-langs/?username=farhanrhine&hide_border=true&theme=radical&layout=compact&langs_count=8&hide=jupyter%20notebook,html,css" />
 
 </div>
 
