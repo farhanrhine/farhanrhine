@@ -49,7 +49,7 @@ I build AI/ML things
 
 ## All Projects
 
-- 🤖 **[Audisift](https://github.com/farhanrhine/audisift.git)** —  voice-first AI interviewer that conducts adaptive tutor screening conversations , dual STT (Openai Whisper + Web Speech), structured assessment reports with full PDF exports. Built with FastAPI and LLM and admin dashboard Deployed on Render.
+- 🤖 **[Audisift](https://github.com/farhanrhine/audisift.git)** —  A production-grade, voice-first screening engine designed to evaluate candidate communication, structured explanation, and teamwork through high-fidelity adaptive conversation.
 - 📋 **[FlowDesk](https://github.com/farhanrhine/FlowDesk)** —  Streamline team collaboration with a secure, aesthetic, and high-performance task management system with RBAC, zero-framework frontend, PostgreSQL on Railway.
 - 📋 **[Discord-Notion-Sync](https://github.com/farhanrhine/discord-notion-sync)** — Discord bot bridging chat to Notion with AI note refinement and web search agent.
 - 💸 **[Finlo](https://github.com/farhanrhine/Finlo)** — Personal expense tracker. Raw SQL, no ORM, no frameworks. Spec-Driven Development with Claude Code.
