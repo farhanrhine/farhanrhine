@@ -1,8 +1,8 @@
 # Hi, I'm Farhan 👋
 
-📍 **India** | 🤖 **ML & AI Engineer** | 🚀 **CS '26 · Chandigarh University**
+📍 **New Delhi, India** | 🤖 **Agentic AI & ML Engineer** | 🚀 **CS '26 · Chandigarh University**
 
-I build AI/ML things
+I build Autonomous Agentic Workflows, MCP Infrastructure, and Production ML Systems.
 
 ![Python](https://img.shields.io/badge/-Python-3776AB?style=flat-square&logo=python&logoColor=white)
 ![PyTorch](https://img.shields.io/badge/-PyTorch-EE4C2C?style=flat-square&logo=pytorch&logoColor=white)
@@ -45,34 +45,50 @@ I build AI/ML things
 ![GCP](https://img.shields.io/badge/-GCP-4285F4?style=flat-square&logo=google-cloud&logoColor=white)
 ![AWS](https://img.shields.io/badge/-AWS-232F3E?style=flat-square&logo=amazon-aws&logoColor=white)
 
-> CS Enginner who got serious about ML & AI and never looked back.
+> CS Engineer who got serious about ML & Agentic AI and never looked back.
 
-## All Projects
+---
 
-- 🤖 **[Audisift](https://github.com/farhanrhine/audisift.git)** —  A production-grade, voice-first screening engine designed to evaluate candidate communication, structured explanation, and teamwork through high-fidelity adaptive conversation.
-- 📋 **[FlowDesk](https://github.com/farhanrhine/FlowDesk)** —  Streamline team collaboration with a secure, aesthetic, and high-performance task management system with RBAC, zero-framework frontend, PostgreSQL on Railway.
-- 📋 **[Discord-Notion-Sync](https://github.com/farhanrhine/discord-notion-sync)** — Discord bot bridging chat to Notion with AI note refinement and web search agent.
-- 💸 **[Finlo](https://github.com/farhanrhine/Finlo)** — Personal expense tracker. Raw SQL, no ORM, no frameworks. Spec-Driven Development with Claude Code.
-- 🎓 **[Student Study Assistant](https://github.com/farhanrhine/discord-thread-notion-mind)** — Study bot with private threads, Pydantic structured LLM explanations, Notion progress tracking.
-- 🌍 **[Tourism Recommendation System](https://github.com/farhanrhine/Tourism-Recommendation)** — Hybrid deep learning engine featuring NCF and content-based branches with a learnable attention fusion mechanism and Streamlit deployment.
+## 🏆 Key Honors & Achievements
+- 🏎️ **Top 19 / 500+ Teams — [AI Race Month GrandPrix @ Paytm](https://luma.com/h3dute0f)** (Aug 2026): National hackathon finalist hosted by Geek Room × SheBuilds for architecting *CrowdFlow AI*.
+
+---
+
+## 🚀 Featured & Flagship Systems
+
+- 🌐 **[AgentLayer](https://agentlayer-zwfy.onrender.com)** — Infrastructure layer between AI agents and the web. Turns any website into a machine-readable FastMCP server in 30s with self-healing E2B Python sandbox validation.
+- 🎙️ **[Audisift](https://github.com/farhanrhine/ai-tutor-screener)** ([Live Demo](https://audisift.onrender.com)) — Production voice-first screening engine evaluating candidate communication with Groq Whisper Large-v3-Turbo, GPT-OSS adaptive turns, and Llama 3.3 scoring.
+- 🚦 **[CrowdFlow AI](https://github.com/MaheepSeharawat/hackathon)** — Predictive crowd flow & dynamic A* rerouting platform for large event spaces with 9-feature RandomForest ML (16,899 pedestrian samples) and real-time React Flow digital twin.
+- 💳 **[Paytm Local MCP Server](https://github.com/farhanrhine/paytm-local-mcp-server)** — Privacy-first Model Context Protocol (MCP) server for local personal finance analytics (stdio + SSE transports, 950+ transactions, 100% on-device).
+
+---
+
+## 🛠️ All Repositories & Systems
+
+- 📄 **[AI-Powered Resume Analyzer](https://github.com/farhanrhine)** — ATS resume alignment platform with Gemini 3.5 Flash, LangChain, PyPDF2, and Streamlit identifying keyword gaps and generating actionable suggestions.
+- 📋 **[FlowDesk](https://github.com/farhanrhine/FlowDesk)** — High-performance task management system with RBAC security, zero-framework vanilla web frontend, and PostgreSQL on Railway.
+- 🤖 **[Multi-AI Agent System](https://github.com/farhanrhine/multi-ai-agent-gcp)** — Production multi-agent on GCP with LangGraph StateGraph, real-time streaming, and Jenkins CI/CD.
 - 🛍️ **[OpenClaw Retail Support Agent](https://github.com/farhanrhine/OpenClaw-Retail-Support-Agent)** — Autonomous customer support agent integrated with WhatsApp and Telegram via OpenClaw + GLM-4.5-Air.
-- 🛒 **[Retail AI Agent](https://github.com/farhanrhine/Retail-AI-Agent)** — Dual-purpose personal shopper + support agent routing across 4 custom tools, zero hallucinations, LangSmith tracing.
-- 🤖 **[Multi-AI Agent System](https://github.com/farhanrhine/multi-ai-agent-gcp)** — Production multi-agent on GCP with LangGraph StateGraph, real-time streaming, Jenkins CI/CD.
-- ⚡ **[IoT Power Consumption Analysis](https://github.com/farhanrhine/IoT-Power-Consumption-Analysis)** — Time-series EDA on IoT device data with anomaly detection on high-power usage.
-- 🎭 **[Celebrity Face Detection](https://github.com/farhanrhine/face-detect-ai-agent-gcp)** — AI-powered face ID using OpenCV + Llama 4, deployed on GKE with CircleCI pipeline.
-- 📚 **[Recall AI Study Agent](https://github.com/farhanrhine/recall-ai-agent-gcp)** — Teach-then-test study companion with contextual quiz generation and Argo CD deployment.
-- ✈️ **[Travel Planner AI Agent](https://github.com/farhanrhine/travel-planner-ai-agent-gcp)** — Voice input (Whisper STT), narrated output (Orpheus TTS), interactive route maps, ELK monitoring.
-- 🏪 **[Flipkart Shopping Agent](https://github.com/farhanrhine/flipkart-shopping-agent-gcp)** — Natural language product search on GCP with full CI/CD pipeline.
+- 🛒 **[Retail AI Agent](https://github.com/farhanrhine/Retail-AI-Agent)** — Dual-purpose personal shopper + support agent routing across 4 custom tools with LangSmith tracing.
+- 📋 **[Discord-Notion-Sync](https://github.com/farhanrhine/discord-notion-sync)** — Discord bot bridging chat to Notion with AI note refinement and web search agent.
+- 💸 **[Finlo](https://github.com/farhanrhine/Finlo)** — Minimalist personal expense tracker built with raw SQL (zero ORM) and pure HTML, following Spec-Driven Development with Claude Code.
+- 🎓 **[Student Study Assistant](https://github.com/farhanrhine/discord-thread-notion-mind)** — Study bot with private threads, Pydantic structured LLM explanations, and Notion progress tracking.
+- 🔬 **[Research DeepAgent](https://github.com/farhanrhine/research-deepagent)** — Autonomous research agent with subagent spawning, context isolation, and filesystem backend on LangGraph.
+- 📚 **[Recall AI Study Agent](https://github.com/farhanrhine/recall-ai-agent-gcp)** — Teach-then-test study companion with contextual quiz generation and Argo CD deployment on Kubernetes.
+- ✈️ **[Travel Planner AI Agent](https://github.com/farhanrhine/travel-planner-ai-agent-gcp)** — Voice input (Whisper STT), narrated output (Orpheus TTS), interactive route maps, and ELK monitoring.
+- 🏪 **[Flipkart Shopping Agent](https://github.com/farhanrhine/flipkart-shopping-agent-gcp)** — Natural language product search deployed on GCP with automated CI/CD.
 - 💒 **[Multi-Agent Wedding Planner](https://github.com/farhanrhine/Multi-Agent-Wedding-Planner)** — Specialized agents coordinating venue, catering, budgeting, and timeline.
-- 🕌 **[Quran Bigram Model](https://github.com/farhanrhine/quran-bigram-model)** — Statistical language model over classical Arabic Quranic corpus exploring morphological co-occurrence patterns.
-- 🧠 **[Tourism Recommendation System](https://github.com/farhanrhine/Deep_Learning-Tourism_Recommendation)** — NCF + content-based hybrid with learnable attention; beat fixed-blend by ~8% on hit-rate@10.
-- 🔬 **[Research DeepAgent](https://github.com/farhanrhine/research-deepagent)** — Autonomous research agent with subagent spawning, context isolation, filesystem backend on LangGraph.
-- 💳 **[Paytm Local MCP Server](https://github.com/farhanrhine/paytm-local-mcp-server)** — One of the first publicly available personal-finance MCP implementations. stdio + SSE transport, 950+ transactions, 100% local.
-- 🏥 **[Medical RAG AI Agent](https://github.com/farhanrhine/medical-rag-ai-agent-gcp)** — RAG over GALE Medical Encyclopedia with custom chunking that preserved medical context.
+- 🌍 **[Tourism Recommendation System](https://github.com/farhanrhine/Deep_Learning-Tourism_Recommendation)** — Neural Collaborative Filtering (NCF) + content-based hybrid with learnable attention; beat fixed-blend by ~8% on hit-rate@10.
+- 🎭 **[Celebrity Face Detection](https://github.com/farhanrhine/face-detect-ai-agent-gcp)** — AI-powered face ID using OpenCV + Llama 4, deployed on GKE with CircleCI pipeline.
 - ✈️ **[Flight Satisfaction MLOps](https://github.com/farhanrhine/flight-satisfaction-mlops)** — Full MLOps loop: DVC, MLflow, LightGBM 93% accuracy, Jenkins → GCP.
+- 🏥 **[Medical RAG AI Agent](https://github.com/farhanrhine/medical-rag-ai-agent-gcp)** — RAG over GALE Medical Encyclopedia with custom chunking that preserved medical context.
 - 🎌 **[AI Anime Recommender RAG](https://github.com/farhanrhine/ai-anime-recommender-rag)** — Production RAG on GKE with ChromaDB and Groq Llama 3.1.
 - 🛡️ **[Insurance Premium Prediction](https://github.com/farhanrhine/insurance-premium-prediction-fastapi-docker-aws)** — ML regression served via FastAPI, containerized with Docker, deployed on AWS EC2.
-- 🕸️ **[Web Eater](https://github.com/farhanrhine/web-eater)** — Web scraping and structured data extraction pipeline for LLM consumption.
+- ⚡ **[IoT Power Consumption Analysis](https://github.com/farhanrhine/IoT-Power-Consumption-Analysis)** — Time-series EDA on IoT device data with anomaly detection on high-power usage.
+- 🕌 **[Quran Bigram Model](https://github.com/farhanrhine/quran-bigram-model)** — Statistical language model over classical Arabic Quranic corpus exploring morphological co-occurrence patterns.
+- 🕸️ **[Web Eater](https://github.com/farhanrhine/web-eater)** — Web scraping and structured data extraction pipeline for downstream LLM & RAG consumption.
+
+---
 
 ## Stats
 
@@ -85,11 +101,15 @@ I build AI/ML things
 
 </div>
 
+---
+
 ## Certifications
 
 - **LangChain**: [Project: Deep Agents](https://academy.langchain.com/certificates/5c6dqdikrw), [Intro to LangChain](https://academy.langchain.com/certificates/sgwwul3tgp) | **DeepLearning.AI**: [RAG](https://coursera.org/share/ee82b26d5d154fbda135d7b84095d8e5), [AI For Everyone](https://coursera.org/share/ac3bb60541c6cfe3c78be60158902c3f) | **NPTEL**: [Deep Learning](https://www.linkedin.com/in/farhanrhine/details/certifications/1749842070696/single-media-viewer/?type=DOCUMENT&profileId=ACoAADnswakBhLaU0AxShVqizbtvdF0VtslDSpI), [Intro to ML](https://archive.nptel.ac.in/content/noc/NOC24/SEM2/Ecertificates/106/noc24-cs81/Course/NPTEL24CS81S33290026902612520.pdf)
 - **Specialized**: [LLMOps Bootcamp (Udemy)](https://www.udemy.com/certificate/UC-af7ba73d-22ce-4804-90dc-bb9f523e5c44/), [Intro to AI (IBM)](https://coursera.org/share/a6405ce5372a457b6999f334a54237ba), [Python for Everybody (UMich)](https://coursera.org/share/a4d76a4505c78d9bdbd88707c973c0cc)
-  
+
+---
+
 ## Connect
 
 [![GitHub](https://img.shields.io/badge/-farhanrhine-181717?style=flat-square&logo=github&logoColor=white)](https://github.com/farhanrhine)
